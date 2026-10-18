@@ -68,3 +68,7 @@ fixture_id,kickoff_utc,league,league_slug,country,home_team,away_team,home_score
 5868087,2026-10-11T19:00:00.000Z,LaLiga,la-liga,Spain,Racing Santander,Valencia,2,2,X,0.4466,0.2221,0.3313,2.114,1.816,1,0,dc-1.0,https://footballanalytics.pro/en/matches/racing-santander-vs-valencia-5868087
 5868085,2026-10-12T19:00:00.000Z,LaLiga,la-liga,Spain,Levante,Sevilla,3,3,X,0.4495,0.2689,0.2815,1.608,1.233,1,0,dc-1.0,https://footballanalytics.pro/en/matches/levante-vs-sevilla-5868085
 5868093,2026-10-16T19:00:00.000Z,LaLiga,la-liga,Spain,Deportivo A Coruña,Levante,1,1,X,0.5447,0.2278,0.2276,2.096,1.315,1,0,dc-1.0,https://footballanalytics.pro/en/matches/deportivo-a-coruna-vs-levante-5868093
+5868094,2026-10-17T12:00:00.000Z,LaLiga,la-liga,Spain,Espanyol,Atlético Madrid,0,1,2,0.2631,0.2721,0.4648,1.15,1.595,2,1,dc-1.0,https://footballanalytics.pro/en/matches/espanyol-vs-atletico-madrid-5868094
+5868100,2026-10-17T14:15:00.000Z,LaLiga,la-liga,Spain,Villarreal,Elche,0,0,X,0.6673,0.1912,0.1415,2.453,1.079,1,0,dc-1.0,https://footballanalytics.pro/en/matches/villarreal-vs-elche-5868100
+5868091,2026-10-17T16:30:00.000Z,LaLiga,la-liga,Spain,Real Betis,Barcelona,2,5,2,0.2274,0.2256,0.5469,1.332,2.124,2,1,dc-1.0,https://footballanalytics.pro/en/matches/real-betis-vs-barcelona-5868091
+5868099,2026-10-17T19:00:00.000Z,LaLiga,la-liga,Spain,Valencia,Athletic Club,0,0,X,0.3931,0.3152,0.2916,1.206,1.003,1,0,dc-1.0,https://footballanalytics.pro/en/matches/valencia-vs-athletic-club-5868099
