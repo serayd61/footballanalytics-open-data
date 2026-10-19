@@ -72,3 +72,7 @@ fixture_id,kickoff_utc,league,league_slug,country,home_team,away_team,home_score
 5868100,2026-10-17T14:15:00.000Z,LaLiga,la-liga,Spain,Villarreal,Elche,0,0,X,0.6673,0.1912,0.1415,2.453,1.079,1,0,dc-1.0,https://footballanalytics.pro/en/matches/villarreal-vs-elche-5868100
 5868091,2026-10-17T16:30:00.000Z,LaLiga,la-liga,Spain,Real Betis,Barcelona,2,5,2,0.2274,0.2256,0.5469,1.332,2.124,2,1,dc-1.0,https://footballanalytics.pro/en/matches/real-betis-vs-barcelona-5868091
 5868099,2026-10-17T19:00:00.000Z,LaLiga,la-liga,Spain,Valencia,Athletic Club,0,0,X,0.3931,0.3152,0.2916,1.206,1.003,1,0,dc-1.0,https://footballanalytics.pro/en/matches/valencia-vs-athletic-club-5868099
+5868097,2026-10-18T12:00:00.000Z,LaLiga,la-liga,Spain,Osasuna,Racing Santander,2,0,1,0.5792,0.1873,0.2335,2.742,1.767,1,1,dc-1.0,https://footballanalytics.pro/en/matches/osasuna-vs-racing-santander-5868097
+5868092,2026-10-18T14:15:00.000Z,LaLiga,la-liga,Spain,Celta Vigo,Deportivo Alavés,2,1,1,0.4813,0.2963,0.2225,1.414,0.884,1,1,dc-1.0,https://footballanalytics.pro/en/matches/celta-vigo-vs-deportivo-alaves-5868092
+5868096,2026-10-18T16:30:00.000Z,LaLiga,la-liga,Spain,Málaga,Real Sociedad,2,5,2,0.1746,0.2775,0.5479,0.78,1.562,2,1,dc-1.0,https://footballanalytics.pro/en/matches/malaga-vs-real-sociedad-5868096
+5868098,2026-10-18T19:00:00.000Z,LaLiga,la-liga,Spain,Real Madrid,Sevilla,4,1,1,0.7563,0.1604,0.0833,2.618,0.796,1,1,dc-1.0,https://footballanalytics.pro/en/matches/real-madrid-vs-sevilla-5868098
