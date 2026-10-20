@@ -1088,3 +1088,10 @@ fixture_id,kickoff_utc,league,league_slug,country,home_team,away_team,home_score
 5868098,2026-10-18T19:00:00.000Z,LaLiga,la-liga,Spain,Real Madrid,Sevilla,4,1,1,0.7563,0.1604,0.0833,2.618,0.796,1,1,dc-1.0,https://footballanalytics.pro/en/matches/real-madrid-vs-sevilla-5868098
 5103672,2026-10-18T21:30:00.000Z,Brasileirão,brasileirao,Brazil,Bahia,Flamengo,0,3,2,0.2587,0.2806,0.4607,1.085,1.52,2,1,dc-1.0,https://footballanalytics.pro/en/matches/bahia-vs-flamengo-5103672
 5103673,2026-10-18T22:30:00.000Z,Brasileirão,brasileirao,Brazil,Remo,RB Bragantino,1,1,X,0.3652,0.294,0.3408,1.288,1.236,1,0,dc-1.0,https://footballanalytics.pro/en/matches/remo-vs-rb-bragantino-5103673
+5739528,2026-10-19T17:00:00.000Z,Superligaen,superligaen,Denmark,Viborg,FC Midtjylland,1,2,2,0.2895,0.2723,0.4382,1.237,1.566,2,1,dc-1.0,https://footballanalytics.pro/en/matches/viborg-vs-fc-midtjylland-5739528
+5804011,2026-10-19T17:00:00.000Z,Ekstraklasa,ekstraklasa,Poland,Wisła Płock,Radomiak Radom,1,0,1,0.4406,0.2881,0.2713,1.444,1.085,1,1,dc-1.0,https://footballanalytics.pro/en/matches/wis-a-p-ock-vs-radomiak-radom-5804011
+5904767,2026-10-19T17:00:00.000Z,Süper Lig,super-lig,Türkiye,Trabzonspor,Beşiktaş,2,0,1,0.5093,0.2482,0.2425,1.852,1.229,1,1,dc-1.0,https://footballanalytics.pro/en/matches/trabzonspor-vs-besiktas-5904767
+5749707,2026-10-19T18:45:00.000Z,Serie A,serie-a,Italy,Parma,Torino,0,3,2,0.3024,0.3266,0.3709,0.977,1.111,2,1,dc-1.0,https://footballanalytics.pro/en/matches/parma-vs-torino-5749707
+5868095,2026-10-19T19:00:00.000Z,LaLiga,la-liga,Spain,Getafe,Rayo Vallecano,1,1,X,0.3157,0.3979,0.2864,0.755,0.706,X,1,dc-1.0,https://footballanalytics.pro/en/matches/getafe-vs-rayo-vallecano-5868095
+5887594,2026-10-19T19:15:00.000Z,Liga Portugal,liga-portugal,Portugal,Braga,Gil Vicente,1,2,2,0.472,0.2991,0.2289,1.389,0.893,1,0,dc-1.0,https://footballanalytics.pro/en/matches/braga-vs-gil-vicente-5887594
+5103667,2026-10-19T23:00:00.000Z,Brasileirão,brasileirao,Brazil,Corinthians,Vitória,1,1,X,0.4683,0.3037,0.2279,1.355,0.87,1,0,dc-1.0,https://footballanalytics.pro/en/matches/corinthians-vs-vitoria-5103667

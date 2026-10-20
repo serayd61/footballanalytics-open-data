@@ -76,3 +76,4 @@ fixture_id,kickoff_utc,league,league_slug,country,home_team,away_team,home_score
 5868092,2026-10-18T14:15:00.000Z,LaLiga,la-liga,Spain,Celta Vigo,Deportivo Alavés,2,1,1,0.4813,0.2963,0.2225,1.414,0.884,1,1,dc-1.0,https://footballanalytics.pro/en/matches/celta-vigo-vs-deportivo-alaves-5868092
 5868096,2026-10-18T16:30:00.000Z,LaLiga,la-liga,Spain,Málaga,Real Sociedad,2,5,2,0.1746,0.2775,0.5479,0.78,1.562,2,1,dc-1.0,https://footballanalytics.pro/en/matches/malaga-vs-real-sociedad-5868096
 5868098,2026-10-18T19:00:00.000Z,LaLiga,la-liga,Spain,Real Madrid,Sevilla,4,1,1,0.7563,0.1604,0.0833,2.618,0.796,1,1,dc-1.0,https://footballanalytics.pro/en/matches/real-madrid-vs-sevilla-5868098
+5868095,2026-10-19T19:00:00.000Z,LaLiga,la-liga,Spain,Getafe,Rayo Vallecano,1,1,X,0.3157,0.3979,0.2864,0.755,0.706,X,1,dc-1.0,https://footballanalytics.pro/en/matches/getafe-vs-rayo-vallecano-5868095
