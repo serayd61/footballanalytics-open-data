@@ -1096,3 +1096,5 @@ fixture_id,kickoff_utc,league,league_slug,country,home_team,away_team,home_score
 5887594,2026-10-19T19:15:00.000Z,Liga Portugal,liga-portugal,Portugal,Braga,Gil Vicente,1,2,2,0.472,0.2991,0.2289,1.389,0.893,1,0,dc-1.0,https://footballanalytics.pro/en/matches/braga-vs-gil-vicente-5887594
 5103667,2026-10-19T23:00:00.000Z,Brasileirão,brasileirao,Brazil,Corinthians,Vitória,1,1,X,0.4683,0.3037,0.2279,1.355,0.87,1,0,dc-1.0,https://footballanalytics.pro/en/matches/corinthians-vs-vitoria-5103667
 5836821,2026-10-20T18:45:00.000Z,Championship,championship,England,Wolverhampton Wanderers,Portsmouth,1,1,X,0.5698,0.2392,0.191,1.936,1.05,1,0,dc-1.0,https://footballanalytics.pro/en/matches/wolverhampton-wanderers-vs-portsmouth-5836821
+5105271,2026-10-21T17:00:00.000Z,1. Divisjon,1-divisjon,Norway,Sogndal,Raufoss,2,1,1,0.6532,0.1911,0.1557,2.502,1.186,1,1,dc-1.0,https://footballanalytics.pro/en/matches/sogndal-vs-raufoss-5105271
+5868067,2026-10-21T18:00:00.000Z,LaLiga,la-liga,Spain,Levante,Athletic Club,3,1,1,0.4303,0.29,0.2797,1.418,1.099,1,1,dc-1.0,https://footballanalytics.pro/en/matches/levante-vs-athletic-club-5868067
