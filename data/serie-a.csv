@@ -57,3 +57,4 @@ fixture_id,kickoff_utc,league,league_slug,country,home_team,away_team,home_score
 5749700,2026-10-18T16:00:00.000Z,Serie A,serie-a,Italy,Milan,Atalanta,3,2,1,0.4143,0.316,0.2697,1.229,0.943,1,1,dc-1.0,https://footballanalytics.pro/en/matches/milan-vs-atalanta-5749700
 5749705,2026-10-18T18:45:00.000Z,Serie A,serie-a,Italy,Juventus,Lazio,0,3,2,0.4826,0.3074,0.21,1.339,0.796,1,0,dc-1.0,https://footballanalytics.pro/en/matches/juventus-vs-lazio-5749705
 5749707,2026-10-19T18:45:00.000Z,Serie A,serie-a,Italy,Parma,Torino,0,3,2,0.3024,0.3266,0.3709,0.977,1.111,2,1,dc-1.0,https://footballanalytics.pro/en/matches/parma-vs-torino-5749707
+5749718,2026-10-23T18:45:00.000Z,Serie A,serie-a,Italy,Torino,Monza,3,2,1,0.4046,0.207,0.3884,2.245,2.202,1,1,dc-1.0,https://footballanalytics.pro/en/matches/torino-vs-monza-5749718
