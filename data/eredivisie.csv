@@ -64,3 +64,6 @@ fixture_id,kickoff_utc,league,league_slug,country,home_team,away_team,home_score
 5781770,2026-10-18T18:00:00.000Z,Eredivisie,eredivisie,Netherlands,NEC Nijmegen,Fortuna Sittard,2,2,X,0.5482,0.2191,0.2326,2.214,1.415,1,0,dc-1.0,https://footballanalytics.pro/en/matches/nec-nijmegen-vs-fortuna-sittard-5781770
 5781773,2026-10-18T18:00:00.000Z,Eredivisie,eredivisie,Netherlands,FC Twente,FC Utrecht,1,2,2,0.6026,0.2222,0.1752,2.115,1.075,1,0,dc-1.0,https://footballanalytics.pro/en/matches/fc-twente-vs-fc-utrecht-5781773
 5781781,2026-10-23T18:00:00.000Z,Eredivisie,eredivisie,Netherlands,Go Ahead Eagles,Telstar,3,2,1,0.4684,0.2398,0.2917,1.921,1.492,1,1,dc-1.0,https://footballanalytics.pro/en/matches/go-ahead-eagles-vs-telstar-5781781
+5781784,2026-10-24T14:30:00.000Z,Eredivisie,eredivisie,Netherlands,FC Utrecht,PEC Zwolle,1,1,X,0.6025,0.2092,0.1883,2.31,1.252,1,0,dc-1.0,https://footballanalytics.pro/en/matches/fc-utrecht-vs-pec-zwolle-5781784
+5781785,2026-10-24T16:45:00.000Z,Eredivisie,eredivisie,Netherlands,Willem II,Cambuur,1,6,2,0.2296,0.2096,0.5608,1.489,2.353,2,1,dc-1.0,https://footballanalytics.pro/en/matches/willem-ii-vs-cambuur-5781785
+5781779,2026-10-24T19:00:00.000Z,Eredivisie,eredivisie,Netherlands,ADO Den Haag,SC Heerenveen,2,3,2,0.2349,0.2581,0.507,1.131,1.748,2,1,dc-1.0,https://footballanalytics.pro/en/matches/ado-den-haag-vs-sc-heerenveen-5781779
