@@ -56,3 +56,9 @@ fixture_id,kickoff_utc,league,league_slug,country,home_team,away_team,home_score
 5802960,2026-10-18T18:45:00.000Z,Ligue 1,ligue-1,France,Lyon,Nice,2,1,1,0.6912,0.2111,0.0977,2.031,0.642,1,1,dc-1.0,https://footballanalytics.pro/en/matches/lyon-vs-nice-5802960
 5802966,2026-10-23T18:45:00.000Z,Ligue 1,ligue-1,France,Brest,Nice,1,2,2,0.5452,0.2585,0.1963,1.74,0.963,1,0,dc-1.0,https://footballanalytics.pro/en/matches/brest-vs-nice-5802966
 5802967,2026-10-24T18:45:00.000Z,Ligue 1,ligue-1,France,Lens,Paris FC,2,1,1,0.5223,0.2463,0.2314,1.874,1.194,1,1,dc-1.0,https://footballanalytics.pro/en/matches/lens-vs-paris-fc-5802967
+5802969,2026-10-25T14:00:00.000Z,Ligue 1,ligue-1,France,Monaco,Lille,1,1,X,0.383,0.3067,0.3103,1.24,1.092,1,0,dc-1.0,https://footballanalytics.pro/en/matches/monaco-vs-lille-5802969
+5802964,2026-10-25T16:15:00.000Z,Ligue 1,ligue-1,France,Angers,Lorient,0,0,X,0.2308,0.2987,0.4706,0.901,1.391,2,0,dc-1.0,https://footballanalytics.pro/en/matches/angers-vs-lorient-5802964
+5802965,2026-10-25T16:15:00.000Z,Ligue 1,ligue-1,France,Auxerre,Le Mans,1,1,X,0.477,0.2403,0.2827,1.922,1.453,1,0,dc-1.0,https://footballanalytics.pro/en/matches/auxerre-vs-le-mans-5802965
+5802968,2026-10-25T16:15:00.000Z,Ligue 1,ligue-1,France,Marseille,Le Havre,4,3,1,0.6316,0.233,0.1353,1.916,0.781,1,1,dc-1.0,https://footballanalytics.pro/en/matches/marseille-vs-le-havre-5802968
+5802970,2026-10-25T16:15:00.000Z,Ligue 1,ligue-1,France,Rennes,Strasbourg,3,0,1,0.5148,0.2028,0.2824,2.476,1.844,1,1,dc-1.0,https://footballanalytics.pro/en/matches/rennes-vs-strasbourg-5802970
+5802971,2026-10-25T16:15:00.000Z,Ligue 1,ligue-1,France,Toulouse,Troyes,0,0,X,0.7986,0.1422,0.0592,2.694,0.648,1,0,dc-1.0,https://footballanalytics.pro/en/matches/toulouse-vs-troyes-5802971

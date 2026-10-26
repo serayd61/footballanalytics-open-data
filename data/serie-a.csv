@@ -62,3 +62,8 @@ fixture_id,kickoff_utc,league,league_slug,country,home_team,away_team,home_score
 5749712,2026-10-24T13:00:00.000Z,Serie A,serie-a,Italy,Como,Sassuolo,2,0,1,0.6607,0.2107,0.1286,2.146,0.856,1,1,dc-1.0,https://footballanalytics.pro/en/matches/como-vs-sassuolo-5749712
 5749717,2026-10-24T16:00:00.000Z,Serie A,serie-a,Italy,Napoli,Roma,3,3,X,0.2399,0.3147,0.4454,0.863,1.269,2,0,dc-1.0,https://footballanalytics.pro/en/matches/napoli-vs-roma-5749717
 5749715,2026-10-24T18:45:00.000Z,Serie A,serie-a,Italy,Lazio,Parma,2,1,1,0.5908,0.2931,0.1161,1.407,0.483,1,1,dc-1.0,https://footballanalytics.pro/en/matches/lazio-vs-parma-5749715
+5749714,2026-10-25T11:30:00.000Z,Serie A,serie-a,Italy,Inter,Fiorentina,2,1,1,0.8208,0.1164,0.0628,3.283,0.908,1,1,dc-1.0,https://footballanalytics.pro/en/matches/inter-vs-fiorentina-5749714
+5749710,2026-10-25T14:00:00.000Z,Serie A,serie-a,Italy,Atalanta,Frosinone,4,4,X,0.3619,0.2644,0.3737,1.496,1.523,2,0,dc-1.0,https://footballanalytics.pro/en/matches/atalanta-vs-frosinone-5749710
+5749713,2026-10-25T14:00:00.000Z,Serie A,serie-a,Italy,Genoa,Venezia,1,0,1,0.5468,0.2559,0.1973,1.766,0.982,1,1,dc-1.0,https://footballanalytics.pro/en/matches/genoa-vs-venezia-5749713
+5749716,2026-10-25T17:00:00.000Z,Serie A,serie-a,Italy,Lecce,Juventus,0,2,2,0.174,0.2806,0.5454,0.765,1.537,2,1,dc-1.0,https://footballanalytics.pro/en/matches/lecce-vs-juventus-5749716
+5749719,2026-10-25T19:45:00.000Z,Serie A,serie-a,Italy,Udinese,Milan,0,2,2,0.2287,0.2713,0.4999,1.029,1.621,2,1,dc-1.0,https://footballanalytics.pro/en/matches/udinese-vs-milan-5749719
