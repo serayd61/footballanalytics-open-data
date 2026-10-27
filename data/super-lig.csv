@@ -68,3 +68,6 @@ fixture_id,kickoff_utc,league,league_slug,country,home_team,away_team,home_score
 5904784,2026-10-24T16:00:00.000Z,Süper Lig,super-lig,Türkiye,Samsunspor,Amed Sportif,1,2,2,0.1499,0.1724,0.6777,1.318,2.802,2,1,dc-1.0,https://footballanalytics.pro/en/matches/samsunspor-vs-amed-sportif-5904784
 5904781,2026-10-25T13:00:00.000Z,Süper Lig,super-lig,Türkiye,Konyaspor,Gençlerbirliği,2,0,1,0.4471,0.3223,0.2306,1.225,0.806,1,1,dc-1.0,https://footballanalytics.pro/en/matches/konyaspor-vs-genclerbirligi-5904781
 5904780,2026-10-25T16:00:00.000Z,Süper Lig,super-lig,Türkiye,Göztepe,Çorum FK,2,0,1,0.3916,0.2197,0.3887,2.031,2.024,1,1,dc-1.0,https://footballanalytics.pro/en/matches/goztepe-vs-corum-fk-5904780
+5904779,2026-10-26T16:00:00.000Z,Süper Lig,super-lig,Türkiye,Rizespor,Trabzonspor,3,4,2,0.1786,0.2428,0.5786,0.966,1.885,2,1,dc-1.0,https://footballanalytics.pro/en/matches/rizespor-vs-trabzonspor-5904779
+5904783,2026-10-26T16:00:00.000Z,Süper Lig,super-lig,Türkiye,Beşiktaş,Başakşehir,2,0,1,0.4918,0.2543,0.2538,1.78,1.232,1,1,dc-1.0,https://footballanalytics.pro/en/matches/besiktas-vs-basaksehir-5904783
+5904782,2026-10-26T18:30:00.000Z,Süper Lig,super-lig,Türkiye,Galatasaray,Fenerbahçe,2,1,1,0.4434,0.2288,0.3277,2.021,1.729,1,1,dc-1.0,https://footballanalytics.pro/en/matches/galatasaray-vs-fenerbahce-5904782

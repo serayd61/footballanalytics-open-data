@@ -119,3 +119,5 @@ fixture_id,kickoff_utc,league,league_slug,country,home_team,away_team,home_score
 5103677,2026-10-24T21:30:00.000Z,Brasileirão,brasileirao,Brazil,Palmeiras,RB Bragantino,2,0,1,0.7062,0.2065,0.0873,2.035,0.588,1,1,dc-1.0,https://footballanalytics.pro/en/matches/palmeiras-vs-rb-bragantino-5103677
 5103683,2026-10-24T22:30:00.000Z,Brasileirão,brasileirao,Brazil,Chapecoense,Fluminense,2,1,1,0.1736,0.228,0.5984,1.028,2.043,2,0,dc-1.0,https://footballanalytics.pro/en/matches/chapecoense-vs-fluminense-5103683
 5103676,2026-10-25T01:00:00.000Z,Brasileirão,brasileirao,Brazil,Santos,Bahia,1,1,X,0.4831,0.2578,0.2591,1.74,1.228,1,0,dc-1.0,https://footballanalytics.pro/en/matches/santos-vs-bahia-5103676
+5103681,2026-10-26T22:30:00.000Z,Brasileirão,brasileirao,Brazil,Coritiba,Grêmio,0,1,2,0.413,0.2774,0.3095,1.49,1.263,1,0,dc-1.0,https://footballanalytics.pro/en/matches/coritiba-vs-gremio-5103681
+5103674,2026-10-26T23:00:00.000Z,Brasileirão,brasileirao,Brazil,Flamengo,Atlético-MG,3,2,1,0.6724,0.2184,0.1092,1.996,0.688,1,1,dc-1.0,https://footballanalytics.pro/en/matches/flamengo-vs-atletico-mg-5103674

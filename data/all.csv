@@ -1214,3 +1214,12 @@ fixture_id,kickoff_utc,league,league_slug,country,home_team,away_team,home_score
 5749719,2026-10-25T19:45:00.000Z,Serie A,serie-a,Italy,Udinese,Milan,0,2,2,0.2287,0.2713,0.4999,1.029,1.621,2,1,dc-1.0,https://footballanalytics.pro/en/matches/udinese-vs-milan-5749719
 5868105,2026-10-25T20:00:00.000Z,LaLiga,la-liga,Spain,Barcelona,Real Madrid,1,2,2,0.6126,0.201,0.1864,2.428,1.311,1,0,dc-1.0,https://footballanalytics.pro/en/matches/barcelona-vs-real-madrid-5868105
 5887661,2026-10-25T20:30:00.000Z,Liga Portugal,liga-portugal,Portugal,Sporting CP,Académico Viseu,1,2,2,0.6597,0.2023,0.138,2.284,0.973,1,0,dc-1.0,https://footballanalytics.pro/en/matches/sporting-cp-vs-academico-viseu-5887661
+5904779,2026-10-26T16:00:00.000Z,Süper Lig,super-lig,Türkiye,Rizespor,Trabzonspor,3,4,2,0.1786,0.2428,0.5786,0.966,1.885,2,1,dc-1.0,https://footballanalytics.pro/en/matches/rizespor-vs-trabzonspor-5904779
+5904783,2026-10-26T16:00:00.000Z,Süper Lig,super-lig,Türkiye,Beşiktaş,Başakşehir,2,0,1,0.4918,0.2543,0.2538,1.78,1.232,1,1,dc-1.0,https://footballanalytics.pro/en/matches/besiktas-vs-basaksehir-5904783
+5739530,2026-10-26T18:00:00.000Z,Superligaen,superligaen,Denmark,FC København,OB,1,1,X,0.6866,0.1924,0.121,2.355,0.914,1,0,dc-1.0,https://footballanalytics.pro/en/matches/fc-kobenhavn-vs-ob-5739530
+5904782,2026-10-26T18:30:00.000Z,Süper Lig,super-lig,Türkiye,Galatasaray,Fenerbahçe,2,1,1,0.4434,0.2288,0.3277,2.021,1.729,1,1,dc-1.0,https://footballanalytics.pro/en/matches/galatasaray-vs-fenerbahce-5904782
+5887660,2026-10-26T18:45:00.000Z,Liga Portugal,liga-portugal,Portugal,Santa Clara,Benfica,1,2,2,0.1689,0.2652,0.5659,0.807,1.662,2,1,dc-1.0,https://footballanalytics.pro/en/matches/santa-clara-vs-benfica-5887660
+5802972,2026-10-26T19:30:00.000Z,Ligue 1,ligue-1,France,Paris Saint-Germain,Lyon,2,0,1,0.5406,0.2588,0.2006,1.739,0.981,1,1,dc-1.0,https://footballanalytics.pro/en/matches/paris-saint-germain-vs-lyon-5802972
+5868109,2026-10-26T20:00:00.000Z,LaLiga,la-liga,Spain,Sevilla,Osasuna,2,0,1,0.5495,0.2452,0.2053,1.88,1.082,1,1,dc-1.0,https://footballanalytics.pro/en/matches/sevilla-vs-osasuna-5868109
+5103681,2026-10-26T22:30:00.000Z,Brasileirão,brasileirao,Brazil,Coritiba,Grêmio,0,1,2,0.413,0.2774,0.3095,1.49,1.263,1,0,dc-1.0,https://footballanalytics.pro/en/matches/coritiba-vs-gremio-5103681
+5103674,2026-10-26T23:00:00.000Z,Brasileirão,brasileirao,Brazil,Flamengo,Atlético-MG,3,2,1,0.6724,0.2184,0.1092,1.996,0.688,1,1,dc-1.0,https://footballanalytics.pro/en/matches/flamengo-vs-atletico-mg-5103674
