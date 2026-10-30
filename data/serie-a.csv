@@ -75,3 +75,5 @@ fixture_id,kickoff_utc,league,league_slug,country,home_team,away_team,home_score
 5749729,2026-10-28T17:30:00.000Z,Serie A,serie-a,Italy,Venezia,Inter,0,2,2,0.0331,0.0854,0.8815,0.676,3.531,2,1,dc-1.0,https://footballanalytics.pro/en/matches/venezia-vs-inter-5749729
 5749724,2026-10-28T19:45:00.000Z,Serie A,serie-a,Italy,Genoa,Juventus,2,0,1,0.1726,0.289,0.5384,0.727,1.473,2,0,dc-1.0,https://footballanalytics.pro/en/matches/genoa-vs-juventus-5749724
 5749725,2026-10-28T19:45:00.000Z,Serie A,serie-a,Italy,Monza,Napoli,1,4,2,0.2082,0.1984,0.5934,1.476,2.507,2,1,dc-1.0,https://footballanalytics.pro/en/matches/monza-vs-napoli-5749725
+5749723,2026-10-29T17:30:00.000Z,Serie A,serie-a,Italy,Frosinone,Lecce,5,1,1,0.6639,0.1913,0.1449,2.464,1.104,1,1,dc-1.0,https://footballanalytics.pro/en/matches/frosinone-vs-lecce-5749723
+5749722,2026-10-29T19:45:00.000Z,Serie A,serie-a,Italy,Fiorentina,Atalanta,2,2,X,0.2499,0.2678,0.4823,1.129,1.645,2,0,dc-1.0,https://footballanalytics.pro/en/matches/fiorentina-vs-atalanta-5749722

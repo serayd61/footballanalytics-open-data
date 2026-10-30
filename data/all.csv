@@ -1236,3 +1236,8 @@ fixture_id,kickoff_utc,league,league_slug,country,home_team,away_team,home_score
 5103688,2026-10-28T22:30:00.000Z,Brasileirão,brasileirao,Brazil,RB Bragantino,Chapecoense,3,0,1,0.6616,0.2075,0.1309,2.193,0.89,1,1,dc-1.0,https://footballanalytics.pro/en/matches/rb-bragantino-vs-chapecoense-5103688
 5103692,2026-10-29T00:30:00.000Z,Brasileirão,brasileirao,Brazil,Bahia,São Paulo,3,2,1,0.4846,0.2931,0.2223,1.439,0.897,1,1,dc-1.0,https://footballanalytics.pro/en/matches/bahia-vs-sao-paulo-5103692
 5103693,2026-10-29T00:30:00.000Z,Brasileirão,brasileirao,Brazil,Remo,Botafogo,2,1,1,0.3831,0.2926,0.3243,1.33,1.206,1,1,dc-1.0,https://footballanalytics.pro/en/matches/remo-vs-botafogo-5103693
+5749723,2026-10-29T17:30:00.000Z,Serie A,serie-a,Italy,Frosinone,Lecce,5,1,1,0.6639,0.1913,0.1449,2.464,1.104,1,1,dc-1.0,https://footballanalytics.pro/en/matches/frosinone-vs-lecce-5749723
+5749722,2026-10-29T19:45:00.000Z,Serie A,serie-a,Italy,Fiorentina,Atalanta,2,2,X,0.2499,0.2678,0.4823,1.129,1.645,2,0,dc-1.0,https://footballanalytics.pro/en/matches/fiorentina-vs-atalanta-5749722
+5103689,2026-10-29T22:30:00.000Z,Brasileirão,brasileirao,Brazil,Atlético-MG,Cruzeiro,0,1,2,0.4362,0.2735,0.2903,1.554,1.231,1,0,dc-1.0,https://footballanalytics.pro/en/matches/atletico-mg-vs-cruzeiro-5103689
+5103685,2026-10-29T23:00:00.000Z,Brasileirão,brasileirao,Brazil,Vasco da Gama,Flamengo,1,4,2,0.1877,0.2387,0.5737,1.036,1.939,2,1,dc-1.0,https://footballanalytics.pro/en/matches/vasco-da-gama-vs-flamengo-5103685
+5103690,2026-10-30T00:30:00.000Z,Brasileirão,brasileirao,Brazil,Grêmio,Athletico Paranaense,2,0,1,0.3199,0.2797,0.4004,1.276,1.452,2,0,dc-1.0,https://footballanalytics.pro/en/matches/gremio-vs-athletico-paranaense-5103690
