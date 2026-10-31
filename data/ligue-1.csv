@@ -63,3 +63,6 @@ fixture_id,kickoff_utc,league,league_slug,country,home_team,away_team,home_score
 5802970,2026-10-25T16:15:00.000Z,Ligue 1,ligue-1,France,Rennes,Strasbourg,3,0,1,0.5148,0.2028,0.2824,2.476,1.844,1,1,dc-1.0,https://footballanalytics.pro/en/matches/rennes-vs-strasbourg-5802970
 5802971,2026-10-25T16:15:00.000Z,Ligue 1,ligue-1,France,Toulouse,Troyes,0,0,X,0.7986,0.1422,0.0592,2.694,0.648,1,0,dc-1.0,https://footballanalytics.pro/en/matches/toulouse-vs-troyes-5802971
 5802972,2026-10-26T19:30:00.000Z,Ligue 1,ligue-1,France,Paris Saint-Germain,Lyon,2,0,1,0.5406,0.2588,0.2006,1.739,0.981,1,1,dc-1.0,https://footballanalytics.pro/en/matches/paris-saint-germain-vs-lyon-5802972
+5802973,2026-10-30T18:00:00.000Z,Ligue 1,ligue-1,France,Le Havre,Paris Saint-Germain,1,5,2,0.1133,0.2211,0.6656,0.702,1.98,2,1,dc-1.0,https://footballanalytics.pro/en/matches/le-havre-vs-paris-saint-germain-5802973
+5802978,2026-10-30T18:00:00.000Z,Ligue 1,ligue-1,France,Nice,Rennes,5,2,1,0.249,0.2476,0.5035,1.26,1.857,2,0,dc-1.0,https://footballanalytics.pro/en/matches/nice-vs-rennes-5802978
+5802974,2026-10-30T20:05:00.000Z,Ligue 1,ligue-1,France,Lille,Lens,1,0,1,0.3962,0.294,0.3098,1.342,1.161,1,1,dc-1.0,https://footballanalytics.pro/en/matches/lille-vs-lens-5802974
