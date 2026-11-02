@@ -55,3 +55,5 @@ fixture_id,kickoff_utc,league,league_slug,country,home_team,away_team,home_score
 5881212,2026-10-31T14:30:00.000Z,Bundesliga,bundesliga,Germany,Schalke 04,RB Leipzig,0,2,2,0.1875,0.3729,0.4396,0.546,0.983,2,1,dc-1.0,https://footballanalytics.pro/en/matches/schalke-04-vs-rb-leipzig-5881212
 5881214,2026-10-31T14:30:00.000Z,Bundesliga,bundesliga,Germany,Werder Bremen,Hoffenheim,2,0,1,0.3984,0.2346,0.3669,1.867,1.788,1,1,dc-1.0,https://footballanalytics.pro/en/matches/werder-bremen-vs-hoffenheim-5881214
 5881208,2026-10-31T17:30:00.000Z,Bundesliga,bundesliga,Germany,Bayern München,Borussia Dortmund,2,2,X,0.6283,0.2132,0.1585,2.196,1.035,1,0,dc-1.0,https://footballanalytics.pro/en/matches/bayern-munchen-vs-borussia-dortmund-5881208
+5881213,2026-11-01T14:30:00.000Z,Bundesliga,bundesliga,Germany,Union Berlin,1. FC Köln,1,1,X,0.4424,0.2747,0.2829,1.551,1.2,1,0,dc-1.0,https://footballanalytics.pro/en/matches/union-berlin-vs-1-fc-koln-5881213
+5881210,2026-11-01T16:30:00.000Z,Bundesliga,bundesliga,Germany,Eintracht Frankfurt,Hamburger SV,3,1,1,0.5494,0.238,0.2126,1.964,1.165,1,1,dc-1.0,https://footballanalytics.pro/en/matches/eintracht-frankfurt-vs-hamburger-sv-5881210
