@@ -71,3 +71,4 @@ fixture_id,kickoff_utc,league,league_slug,country,home_team,away_team,home_score
 5802976,2026-11-01T16:15:00.000Z,Ligue 1,ligue-1,France,Lyon,Angers,2,0,1,0.7026,0.2066,0.0908,2.049,0.612,1,1,dc-1.0,https://footballanalytics.pro/en/matches/lyon-vs-angers-5802976
 5802979,2026-11-01T16:15:00.000Z,Ligue 1,ligue-1,France,Paris FC,Monaco,3,1,1,0.4003,0.276,0.3237,1.481,1.312,1,1,dc-1.0,https://footballanalytics.pro/en/matches/paris-fc-vs-monaco-5802979
 5802977,2026-11-01T19:45:00.000Z,Ligue 1,ligue-1,France,Marseille,Toulouse,2,0,1,0.5383,0.2285,0.2332,2.089,1.337,1,1,dc-1.0,https://footballanalytics.pro/en/matches/marseille-vs-toulouse-5802977
+5802975,2026-11-02T19:45:00.000Z,Ligue 1,ligue-1,France,Lorient,Brest,0,2,2,0.4785,0.2814,0.2401,1.526,1.017,1,0,dc-1.0,https://footballanalytics.pro/en/matches/lorient-vs-brest-5802975
