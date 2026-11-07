@@ -76,3 +76,4 @@ fixture_id,kickoff_utc,league,league_slug,country,home_team,away_team,home_score
 5795496,2026-10-31T20:00:00.000Z,Premier League,premier-league,England,Aston Villa,Fulham,1,1,X,0.4898,0.2836,0.2266,1.514,0.957,1,0,dc-1.0,https://footballanalytics.pro/en/matches/aston-villa-vs-fulham-5795496
 5795501,2026-11-01T16:30:00.000Z,Premier League,premier-league,England,Liverpool,Arsenal,0,1,2,0.2303,0.3016,0.468,0.887,1.369,2,1,dc-1.0,https://footballanalytics.pro/en/matches/liverpool-vs-arsenal-5795501
 5795503,2026-11-02T20:00:00.000Z,Premier League,premier-league,England,Newcastle United,Everton,0,1,2,0.4338,0.2755,0.2907,1.534,1.22,1,0,dc-1.0,https://footballanalytics.pro/en/matches/newcastle-united-vs-everton-5795503
+5795508,2026-11-06T20:00:00.000Z,Premier League,premier-league,England,Everton,Coventry City,3,1,1,0.5222,0.2691,0.2086,1.643,0.96,1,1,dc-1.0,https://footballanalytics.pro/en/matches/everton-vs-coventry-city-5795508

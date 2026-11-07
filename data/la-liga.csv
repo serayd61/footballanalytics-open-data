@@ -98,3 +98,4 @@ fixture_id,kickoff_utc,league,league_slug,country,home_team,away_team,home_score
 5868114,2026-11-01T17:30:00.000Z,LaLiga,la-liga,Spain,Elche,Valencia,0,1,2,0.5303,0.2662,0.2034,1.67,0.954,1,0,dc-1.0,https://footballanalytics.pro/en/matches/elche-vs-valencia-5868114
 5868111,2026-11-01T20:00:00.000Z,LaLiga,la-liga,Spain,Athletic Club,Real Sociedad,2,1,1,0.4576,0.2495,0.293,1.803,1.415,1,1,dc-1.0,https://footballanalytics.pro/en/matches/athletic-club-vs-real-sociedad-5868111
 5868113,2026-11-02T20:00:00.000Z,LaLiga,la-liga,Spain,Deportivo A Coruña,Osasuna,2,1,1,0.5493,0.2652,0.1854,1.673,0.881,1,1,dc-1.0,https://footballanalytics.pro/en/matches/deportivo-a-coruna-vs-osasuna-5868113
+5868128,2026-11-06T20:00:00.000Z,LaLiga,la-liga,Spain,Sevilla,Deportivo Alavés,0,0,X,0.4974,0.2516,0.251,1.811,1.24,1,0,dc-1.0,https://footballanalytics.pro/en/matches/sevilla-vs-deportivo-alaves-5868128
