@@ -99,3 +99,7 @@ fixture_id,kickoff_utc,league,league_slug,country,home_team,away_team,home_score
 5868111,2026-11-01T20:00:00.000Z,LaLiga,la-liga,Spain,Athletic Club,Real Sociedad,2,1,1,0.4576,0.2495,0.293,1.803,1.415,1,1,dc-1.0,https://footballanalytics.pro/en/matches/athletic-club-vs-real-sociedad-5868111
 5868113,2026-11-02T20:00:00.000Z,LaLiga,la-liga,Spain,Deportivo A Coruña,Osasuna,2,1,1,0.5493,0.2652,0.1854,1.673,0.881,1,1,dc-1.0,https://footballanalytics.pro/en/matches/deportivo-a-coruna-vs-osasuna-5868113
 5868128,2026-11-06T20:00:00.000Z,LaLiga,la-liga,Spain,Sevilla,Deportivo Alavés,0,0,X,0.4974,0.2516,0.251,1.811,1.24,1,0,dc-1.0,https://footballanalytics.pro/en/matches/sevilla-vs-deportivo-alaves-5868128
+5868125,2026-11-07T13:00:00.000Z,LaLiga,la-liga,Spain,Málaga,Racing Santander,1,2,2,0.4077,0.2512,0.3411,1.712,1.554,1,0,dc-1.0,https://footballanalytics.pro/en/matches/malaga-vs-racing-santander-5868125
+5868124,2026-11-07T15:15:00.000Z,LaLiga,la-liga,Spain,Espanyol,Deportivo A Coruña,0,0,X,0.3939,0.3137,0.2923,1.215,1.012,1,0,dc-1.0,https://footballanalytics.pro/en/matches/espanyol-vs-deportivo-a-coruna-5868124
+5868126,2026-11-07T17:30:00.000Z,LaLiga,la-liga,Spain,Osasuna,Athletic Club,1,1,X,0.3295,0.3023,0.3682,1.161,1.241,2,0,dc-1.0,https://footballanalytics.pro/en/matches/osasuna-vs-athletic-club-5868126
+5868129,2026-11-07T20:00:00.000Z,LaLiga,la-liga,Spain,Valencia,Real Madrid,0,3,2,0.1407,0.2448,0.6145,0.757,1.812,2,1,dc-1.0,https://footballanalytics.pro/en/matches/valencia-vs-real-madrid-5868129
