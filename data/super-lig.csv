@@ -85,3 +85,7 @@ fixture_id,kickoff_utc,league,league_slug,country,home_team,away_team,home_score
 5904802,2026-11-07T13:00:00.000Z,Süper Lig,super-lig,Türkiye,Samsunspor,Konyaspor,1,0,1,0.4073,0.2916,0.3011,1.376,1.151,1,1,dc-1.0,https://footballanalytics.pro/en/matches/samsunspor-vs-konyaspor-5904802
 5904798,2026-11-07T16:00:00.000Z,Süper Lig,super-lig,Türkiye,Göztepe,Başakşehir,1,2,2,0.4047,0.2626,0.3327,1.6,1.435,1,0,dc-1.0,https://footballanalytics.pro/en/matches/goztepe-vs-basaksehir-5904798
 5904800,2026-11-07T16:00:00.000Z,Süper Lig,super-lig,Türkiye,Galatasaray,Amed Sportif,4,3,1,0.5257,0.2101,0.2642,2.357,1.666,1,1,dc-1.0,https://footballanalytics.pro/en/matches/galatasaray-vs-amed-sportif-5904800
+5904797,2026-11-08T10:30:00.000Z,Süper Lig,super-lig,Türkiye,Rizespor,Erzurumspor FK,2,1,1,0.4857,0.2954,0.2189,1.423,0.875,1,1,dc-1.0,https://footballanalytics.pro/en/matches/rizespor-vs-erzurumspor-fk-5904797
+5904799,2026-11-08T13:00:00.000Z,Süper Lig,super-lig,Türkiye,Çorum FK,Fenerbahçe,0,5,2,0.3375,0.2166,0.4459,1.904,2.189,2,1,dc-1.0,https://footballanalytics.pro/en/matches/corum-fk-vs-fenerbahce-5904799
+5904796,2026-11-08T15:30:00.000Z,Süper Lig,super-lig,Türkiye,Alanyaspor,Trabzonspor,0,2,2,0.1658,0.2435,0.5907,0.896,1.863,2,1,dc-1.0,https://footballanalytics.pro/en/matches/alanyaspor-vs-trabzonspor-5904796
+5904801,2026-11-08T18:00:00.000Z,Süper Lig,super-lig,Türkiye,Beşiktaş,Gençlerbirliği,3,0,1,0.6724,0.205,0.1225,2.195,0.847,1,1,dc-1.0,https://footballanalytics.pro/en/matches/besiktas-vs-genclerbirligi-5904801

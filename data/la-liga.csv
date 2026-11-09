@@ -103,3 +103,8 @@ fixture_id,kickoff_utc,league,league_slug,country,home_team,away_team,home_score
 5868124,2026-11-07T15:15:00.000Z,LaLiga,la-liga,Spain,Espanyol,Deportivo A Coruña,0,0,X,0.3939,0.3137,0.2923,1.215,1.012,1,0,dc-1.0,https://footballanalytics.pro/en/matches/espanyol-vs-deportivo-a-coruna-5868124
 5868126,2026-11-07T17:30:00.000Z,LaLiga,la-liga,Spain,Osasuna,Athletic Club,1,1,X,0.3295,0.3023,0.3682,1.161,1.241,2,0,dc-1.0,https://footballanalytics.pro/en/matches/osasuna-vs-athletic-club-5868126
 5868129,2026-11-07T20:00:00.000Z,LaLiga,la-liga,Spain,Valencia,Real Madrid,0,3,2,0.1407,0.2448,0.6145,0.757,1.812,2,1,dc-1.0,https://footballanalytics.pro/en/matches/valencia-vs-real-madrid-5868129
+5868123,2026-11-08T13:00:00.000Z,LaLiga,la-liga,Spain,Elche,Real Betis,0,2,2,0.3617,0.2722,0.3661,1.434,1.443,2,1,dc-1.0,https://footballanalytics.pro/en/matches/elche-vs-real-betis-5868123
+5868127,2026-11-08T15:15:00.000Z,LaLiga,la-liga,Spain,Real Sociedad,Rayo Vallecano,1,0,1,0.5403,0.2294,0.2302,2.075,1.315,1,1,dc-1.0,https://footballanalytics.pro/en/matches/real-sociedad-vs-rayo-vallecano-5868127
+5868122,2026-11-08T17:30:00.000Z,LaLiga,la-liga,Spain,Celta Vigo,Levante,0,0,X,0.497,0.2774,0.2256,1.568,0.985,1,0,dc-1.0,https://footballanalytics.pro/en/matches/celta-vigo-vs-levante-5868122
+5868130,2026-11-08T17:30:00.000Z,LaLiga,la-liga,Spain,Villarreal,Getafe,2,0,1,0.5946,0.2735,0.132,1.558,0.606,1,1,dc-1.0,https://footballanalytics.pro/en/matches/villarreal-vs-getafe-5868130
+5868121,2026-11-08T20:00:00.000Z,LaLiga,la-liga,Spain,Atlético Madrid,Barcelona,1,2,2,0.3006,0.2374,0.462,1.547,1.942,2,1,dc-1.0,https://footballanalytics.pro/en/matches/atletico-madrid-vs-barcelona-5868121

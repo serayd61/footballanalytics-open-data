@@ -63,3 +63,6 @@ fixture_id,kickoff_utc,league,league_slug,country,home_team,away_team,home_score
 5881221,2026-11-07T14:30:00.000Z,Bundesliga,bundesliga,Germany,Paderborn,Eintracht Frankfurt,2,2,X,0.3594,0.333,0.3076,1.06,0.961,1,0,dc-1.0,https://footballanalytics.pro/en/matches/paderborn-vs-eintracht-frankfurt-5881221
 5881222,2026-11-07T14:30:00.000Z,Bundesliga,bundesliga,Germany,RB Leipzig,Augsburg,5,2,1,0.6908,0.1726,0.1366,2.739,1.2,1,1,dc-1.0,https://footballanalytics.pro/en/matches/rb-leipzig-vs-augsburg-5881222
 5881223,2026-11-07T17:30:00.000Z,Bundesliga,bundesliga,Germany,VfB Stuttgart,Werder Bremen,1,0,1,0.6485,0.1925,0.159,2.491,1.198,1,1,dc-1.0,https://footballanalytics.pro/en/matches/vfb-stuttgart-vs-werder-bremen-5881223
+5881216,2026-11-08T14:30:00.000Z,Bundesliga,bundesliga,Germany,1. FC Köln,Bayer Leverkusen,1,2,2,0.273,0.2423,0.4846,1.398,1.905,2,1,dc-1.0,https://footballanalytics.pro/en/matches/1-fc-koln-vs-bayer-leverkusen-5881216
+5881217,2026-11-08T16:30:00.000Z,Bundesliga,bundesliga,Germany,Freiburg,Union Berlin,2,0,1,0.6753,0.1989,0.1258,2.287,0.908,1,1,dc-1.0,https://footballanalytics.pro/en/matches/freiburg-vs-union-berlin-5881217
+5881219,2026-11-08T18:30:00.000Z,Bundesliga,bundesliga,Germany,Hoffenheim,Schalke 04,2,1,1,0.571,0.3128,0.1162,1.292,0.441,1,1,dc-1.0,https://footballanalytics.pro/en/matches/hoffenheim-vs-schalke-04-5881219
