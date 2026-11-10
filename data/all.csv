@@ -1543,3 +1543,4 @@ fixture_id,kickoff_utc,league,league_slug,country,home_team,away_team,home_score
 5868121,2026-11-08T20:00:00.000Z,LaLiga,la-liga,Spain,Atlético Madrid,Barcelona,1,2,2,0.3006,0.2374,0.462,1.547,1.942,2,1,dc-1.0,https://footballanalytics.pro/en/matches/atletico-madrid-vs-barcelona-5868121
 5887673,2026-11-08T20:30:00.000Z,Liga Portugal,liga-portugal,Portugal,Estrela da Amadora,Benfica,2,3,2,0.0682,0.1294,0.8024,0.861,3.052,2,1,dc-1.0,https://footballanalytics.pro/en/matches/estrela-da-amadora-vs-benfica-5887673
 5887677,2026-11-08T20:30:00.000Z,Liga Portugal,liga-portugal,Portugal,Rio Ave,Braga,0,1,2,0.139,0.2119,0.6491,0.919,2.164,2,1,dc-1.0,https://footballanalytics.pro/en/matches/rio-ave-vs-braga-5887677
+5105046,2026-11-09T18:00:00.000Z,Eliteserien,eliteserien,Norway,Kristiansund,Vålerenga,1,0,1,0.2829,0.2336,0.4834,1.513,2.008,2,0,dc-1.0,https://footballanalytics.pro/en/matches/kristiansund-vs-valerenga-5105046
