@@ -1,0 +1,83 @@
+fixture_id,kickoff_utc,league,league_slug,country,home_team,away_team,home_score,away_score,result,p_home,p_draw,p_away,lambda_home,lambda_away,pick,pick_correct,model_version,match_url
+5802905,2026-08-21T18:45:00.000Z,Ligue 1,ligue-1,France,Marseille,Strasbourg,4,0,1,0.4855,0.2418,0.2726,1.912,1.401,1,1,dc-1.0,https://footballanalytics.pro/en/matches/marseille-vs-strasbourg-5802905
+5802904,2026-08-22T15:15:00.000Z,Ligue 1,ligue-1,France,Lens,Auxerre,5,2,1,0.6553,0.2158,0.129,2.088,0.83,1,1,dc-1.0,https://footballanalytics.pro/en/matches/lens-vs-auxerre-5802904
+5802903,2026-08-22T18:45:00.000Z,Ligue 1,ligue-1,France,Le Mans,Brest,2,2,X,0.4283,0.3062,0.2655,1.305,0.975,1,0,dc-1.0,https://footballanalytics.pro/en/matches/le-mans-vs-brest-5802903
+5802906,2026-08-22T18:45:00.000Z,Ligue 1,ligue-1,France,Nice,Lorient,0,0,X,0.2843,0.2853,0.4303,1.14,1.452,2,0,dc-1.0,https://footballanalytics.pro/en/matches/nice-vs-lorient-5802906
+5802908,2026-08-22T18:45:00.000Z,Ligue 1,ligue-1,France,Toulouse,Lyon,0,2,2,0.2705,0.2812,0.4483,1.121,1.504,2,1,dc-1.0,https://footballanalytics.pro/en/matches/toulouse-vs-lyon-5802908
+5802909,2026-08-22T18:45:00.000Z,Ligue 1,ligue-1,France,Troyes,Paris FC,0,0,X,0.3578,0.2845,0.3578,1.336,1.336,1,0,dc-1.0,https://footballanalytics.pro/en/matches/troyes-vs-paris-fc-5802909
+5802901,2026-08-23T13:00:00.000Z,Ligue 1,ligue-1,France,Angers,Lille,0,2,2,0.1803,0.3268,0.4929,0.635,1.224,2,1,dc-1.0,https://footballanalytics.pro/en/matches/angers-vs-lille-5802901
+5802902,2026-08-23T15:15:00.000Z,Ligue 1,ligue-1,France,Le Havre,Monaco,0,1,2,0.2491,0.2828,0.4681,1.041,1.508,2,1,dc-1.0,https://footballanalytics.pro/en/matches/le-havre-vs-monaco-5802902
+5803105,2026-08-23T18:45:00.000Z,Ligue 1,ligue-1,France,Rennes,Paris Saint-Germain,2,2,X,0.1678,0.2052,0.627,1.155,2.326,2,0,dc-1.0,https://footballanalytics.pro/en/matches/rennes-vs-paris-saint-germain-5803105
+5802918,2026-08-28T18:45:00.000Z,Ligue 1,ligue-1,France,Lille,Paris Saint-Germain,2,2,X,0.2128,0.2858,0.5014,0.896,1.5,2,0,dc-1.0,https://footballanalytics.pro/en/matches/lille-vs-paris-saint-germain-5802918
+5802917,2026-08-29T15:15:00.000Z,Ligue 1,ligue-1,France,Strasbourg,Lens,2,1,1,0.303,0.2424,0.4546,1.51,1.876,2,0,dc-1.0,https://footballanalytics.pro/en/matches/strasbourg-vs-lens-5802917
+5802910,2026-08-29T18:45:00.000Z,Ligue 1,ligue-1,France,Auxerre,Angers,1,3,2,0.4774,0.329,0.1936,1.207,0.671,1,0,dc-1.0,https://footballanalytics.pro/en/matches/auxerre-vs-angers-5802910
+5802911,2026-08-29T18:45:00.000Z,Ligue 1,ligue-1,France,Brest,Toulouse,2,2,X,0.377,0.2858,0.3372,1.365,1.279,1,0,dc-1.0,https://footballanalytics.pro/en/matches/brest-vs-toulouse-5802911
+5802912,2026-08-29T18:45:00.000Z,Ligue 1,ligue-1,France,Lorient,Troyes,1,2,2,0.477,0.2675,0.2555,1.644,1.151,1,0,dc-1.0,https://footballanalytics.pro/en/matches/lorient-vs-troyes-5802912
+5802913,2026-08-29T18:45:00.000Z,Ligue 1,ligue-1,France,Lyon,Le Havre,1,1,X,0.5944,0.2672,0.1384,1.614,0.657,1,0,dc-1.0,https://footballanalytics.pro/en/matches/lyon-vs-le-havre-5802913
+5802915,2026-08-30T13:00:00.000Z,Ligue 1,ligue-1,France,Paris FC,Nice,3,0,1,0.5673,0.2557,0.177,1.755,0.889,1,1,dc-1.0,https://footballanalytics.pro/en/matches/paris-fc-vs-nice-5802915
+5802916,2026-08-30T15:15:00.000Z,Ligue 1,ligue-1,France,Rennes,Le Mans,3,2,1,0.5261,0.2608,0.2131,1.722,1.024,1,1,dc-1.0,https://footballanalytics.pro/en/matches/rennes-vs-le-mans-5802916
+5802914,2026-08-30T18:45:00.000Z,Ligue 1,ligue-1,France,Monaco,Marseille,2,0,1,0.4342,0.2348,0.3309,1.933,1.677,1,1,dc-1.0,https://footballanalytics.pro/en/matches/monaco-vs-marseille-5802914
+5802926,2026-09-03T18:45:00.000Z,Ligue 1,ligue-1,France,Toulouse,Lille,0,1,2,0.2705,0.3119,0.4176,0.963,1.257,2,1,dc-1.0,https://footballanalytics.pro/en/matches/toulouse-vs-lille-5802926
+5802922,2026-09-04T17:00:00.000Z,Ligue 1,ligue-1,France,Lyon,Auxerre,3,1,1,0.5518,0.2733,0.1749,1.597,0.798,1,1,dc-1.0,https://footballanalytics.pro/en/matches/lyon-vs-auxerre-5802922
+5802925,2026-09-04T19:05:00.000Z,Ligue 1,ligue-1,France,Paris Saint-Germain,Monaco,1,2,2,0.7357,0.1606,0.1038,2.766,1.002,1,0,dc-1.0,https://footballanalytics.pro/en/matches/paris-saint-germain-vs-monaco-5802925
+5802921,2026-09-05T15:15:00.000Z,Ligue 1,ligue-1,France,Lens,Lorient,0,1,2,0.617,0.2144,0.1686,2.202,1.09,1,0,dc-1.0,https://footballanalytics.pro/en/matches/lens-vs-lorient-5802921
+5802920,2026-09-05T18:45:00.000Z,Ligue 1,ligue-1,France,Le Havre,Brest,1,2,2,0.3707,0.3256,0.3037,1.115,0.985,1,0,dc-1.0,https://footballanalytics.pro/en/matches/le-havre-vs-brest-5802920
+5802924,2026-09-05T18:45:00.000Z,Ligue 1,ligue-1,France,Nice,Le Mans,1,1,X,0.343,0.3225,0.3345,1.082,1.065,1,0,dc-1.0,https://footballanalytics.pro/en/matches/nice-vs-le-mans-5802924
+5802927,2026-09-06T13:00:00.000Z,Ligue 1,ligue-1,France,Troyes,Strasbourg,2,6,2,0.3512,0.2658,0.383,1.459,1.531,2,1,dc-1.0,https://footballanalytics.pro/en/matches/troyes-vs-strasbourg-5802927
+5802919,2026-09-06T15:15:00.000Z,Ligue 1,ligue-1,France,Angers,Rennes,1,2,2,0.224,0.2763,0.4997,0.984,1.578,2,1,dc-1.0,https://footballanalytics.pro/en/matches/angers-vs-rennes-5802919
+5802923,2026-09-06T18:45:00.000Z,Ligue 1,ligue-1,France,Marseille,Paris FC,2,3,2,0.4869,0.257,0.2561,1.751,1.222,1,0,dc-1.0,https://footballanalytics.pro/en/matches/marseille-vs-paris-fc-5802923
+5802935,2026-09-11T18:45:00.000Z,Ligue 1,ligue-1,France,Rennes,Marseille,1,0,1,0.4414,0.228,0.3306,2.028,1.748,1,1,dc-1.0,https://footballanalytics.pro/en/matches/rennes-vs-marseille-5802935
+5802936,2026-09-12T15:15:00.000Z,Ligue 1,ligue-1,France,Strasbourg,Monaco,1,1,X,0.4027,0.2288,0.3685,1.945,1.858,1,0,dc-1.0,https://footballanalytics.pro/en/matches/strasbourg-vs-monaco-5802936
+5802928,2026-09-12T18:45:00.000Z,Ligue 1,ligue-1,France,Auxerre,Nice,1,0,1,0.4829,0.29,0.2271,1.461,0.928,1,1,dc-1.0,https://footballanalytics.pro/en/matches/auxerre-vs-nice-5802928
+5802930,2026-09-12T18:45:00.000Z,Ligue 1,ligue-1,France,Le Havre,Angers,0,0,X,0.4028,0.3512,0.246,1.038,0.751,1,0,dc-1.0,https://footballanalytics.pro/en/matches/le-havre-vs-angers-5802930
+5802933,2026-09-12T18:45:00.000Z,Ligue 1,ligue-1,France,Lorient,Toulouse,2,2,X,0.4262,0.2978,0.276,1.358,1.047,1,0,dc-1.0,https://footballanalytics.pro/en/matches/lorient-vs-toulouse-5802933
+5802934,2026-09-12T18:45:00.000Z,Ligue 1,ligue-1,France,Paris FC,Lyon,0,0,X,0.3721,0.2832,0.3447,1.374,1.315,1,0,dc-1.0,https://footballanalytics.pro/en/matches/paris-fc-vs-lyon-5802934
+5802929,2026-09-13T18:45:00.000Z,Ligue 1,ligue-1,France,Brest,Paris Saint-Germain,0,1,2,0.1595,0.208,0.6325,1.079,2.268,2,1,dc-1.0,https://footballanalytics.pro/en/matches/brest-vs-paris-saint-germain-5802929
+5802941,2026-09-18T18:45:00.000Z,Ligue 1,ligue-1,France,Monaco,Lens,2,1,1,0.3913,0.2465,0.3621,1.724,1.654,1,1,dc-1.0,https://footballanalytics.pro/en/matches/monaco-vs-lens-5802941
+5802943,2026-09-19T15:15:00.000Z,Ligue 1,ligue-1,France,Paris FC,Strasbourg,2,1,1,0.4356,0.2547,0.3096,1.722,1.429,1,1,dc-1.0,https://footballanalytics.pro/en/matches/paris-fc-vs-strasbourg-5802943
+5802940,2026-09-19T18:45:00.000Z,Ligue 1,ligue-1,France,Lyon,Rennes,4,0,1,0.4578,0.2549,0.2873,1.749,1.353,1,1,dc-1.0,https://footballanalytics.pro/en/matches/lyon-vs-rennes-5802940
+5802944,2026-09-19T18:45:00.000Z,Ligue 1,ligue-1,France,Toulouse,Le Havre,3,2,1,0.4551,0.3165,0.2284,1.266,0.821,1,1,dc-1.0,https://footballanalytics.pro/en/matches/toulouse-vs-le-havre-5802944
+5802938,2026-09-20T13:00:00.000Z,Ligue 1,ligue-1,France,Auxerre,Brest,2,1,1,0.3821,0.2778,0.3401,1.434,1.342,1,1,dc-1.0,https://footballanalytics.pro/en/matches/auxerre-vs-brest-5802938
+5802942,2026-09-20T15:15:00.000Z,Ligue 1,ligue-1,France,Nice,Lille,2,1,1,0.133,0.2811,0.5859,0.587,1.503,2,0,dc-1.0,https://footballanalytics.pro/en/matches/nice-vs-lille-5802942
+5802945,2026-09-20T18:45:00.000Z,Ligue 1,ligue-1,France,Marseille,Paris Saint-Germain,1,2,2,0.2546,0.2484,0.4969,1.277,1.845,2,1,dc-1.0,https://footballanalytics.pro/en/matches/marseille-vs-paris-saint-germain-5802945
+5802947,2026-10-09T18:45:00.000Z,Ligue 1,ligue-1,France,Lens,Lyon,2,1,1,0.4229,0.2674,0.3097,1.588,1.333,1,1,dc-1.0,https://footballanalytics.pro/en/matches/lens-vs-lyon-5802947
+5802948,2026-10-10T15:15:00.000Z,Ligue 1,ligue-1,France,Lille,Le Havre,1,0,1,0.5763,0.2872,0.1365,1.464,0.584,1,1,dc-1.0,https://footballanalytics.pro/en/matches/lille-vs-le-havre-5802948
+5802946,2026-10-10T18:45:00.000Z,Ligue 1,ligue-1,France,Brest,Angers,5,1,1,0.4722,0.2967,0.2311,1.406,0.911,1,1,dc-1.0,https://footballanalytics.pro/en/matches/brest-vs-angers-5802946
+5802949,2026-10-10T18:45:00.000Z,Ligue 1,ligue-1,France,Lorient,Paris FC,1,0,1,0.3339,0.3019,0.3642,1.173,1.236,2,0,dc-1.0,https://footballanalytics.pro/en/matches/lorient-vs-paris-fc-5802949
+5802950,2026-10-10T18:45:00.000Z,Ligue 1,ligue-1,France,Monaco,Toulouse,2,2,X,0.5892,0.2218,0.189,2.141,1.157,1,0,dc-1.0,https://footballanalytics.pro/en/matches/monaco-vs-toulouse-5802950
+5802951,2026-10-11T13:00:00.000Z,Ligue 1,ligue-1,France,Nice,Strasbourg,2,1,1,0.2295,0.2521,0.5185,1.147,1.812,2,0,dc-1.0,https://footballanalytics.pro/en/matches/nice-vs-strasbourg-5802951
+5802953,2026-10-11T15:15:00.000Z,Ligue 1,ligue-1,France,Rennes,Auxerre,4,1,1,0.5862,0.2213,0.1925,2.152,1.181,1,1,dc-1.0,https://footballanalytics.pro/en/matches/rennes-vs-auxerre-5802953
+5802962,2026-10-17T15:15:00.000Z,Ligue 1,ligue-1,France,Strasbourg,Paris Saint-Germain,1,3,2,0.2358,0.2275,0.5368,1.358,2.102,2,1,dc-1.0,https://footballanalytics.pro/en/matches/strasbourg-vs-paris-saint-germain-5802962
+5802958,2026-10-17T18:45:00.000Z,Ligue 1,ligue-1,France,Lille,Brest,1,1,X,0.5781,0.2524,0.1695,1.779,0.869,1,0,dc-1.0,https://footballanalytics.pro/en/matches/lille-vs-brest-5802958
+5802955,2026-10-18T13:00:00.000Z,Ligue 1,ligue-1,France,Angers,Marseille,2,5,2,0.214,0.2718,0.5142,0.968,1.619,2,1,dc-1.0,https://footballanalytics.pro/en/matches/angers-vs-marseille-5802955
+5802956,2026-10-18T15:15:00.000Z,Ligue 1,ligue-1,France,Le Havre,Auxerre,1,3,2,0.3933,0.3245,0.2822,1.155,0.938,1,0,dc-1.0,https://footballanalytics.pro/en/matches/le-havre-vs-auxerre-5802956
+5802959,2026-10-18T15:15:00.000Z,Ligue 1,ligue-1,France,Lorient,Monaco,1,0,1,0.3299,0.2766,0.3935,1.324,1.464,2,0,dc-1.0,https://footballanalytics.pro/en/matches/lorient-vs-monaco-5802959
+5802961,2026-10-18T15:15:00.000Z,Ligue 1,ligue-1,France,Paris FC,Rennes,4,3,1,0.4471,0.2594,0.2935,1.692,1.34,1,1,dc-1.0,https://footballanalytics.pro/en/matches/paris-fc-vs-rennes-5802961
+5802960,2026-10-18T18:45:00.000Z,Ligue 1,ligue-1,France,Lyon,Nice,2,1,1,0.6912,0.2111,0.0977,2.031,0.642,1,1,dc-1.0,https://footballanalytics.pro/en/matches/lyon-vs-nice-5802960
+5802966,2026-10-23T18:45:00.000Z,Ligue 1,ligue-1,France,Brest,Nice,1,2,2,0.5452,0.2585,0.1963,1.74,0.963,1,0,dc-1.0,https://footballanalytics.pro/en/matches/brest-vs-nice-5802966
+5802967,2026-10-24T18:45:00.000Z,Ligue 1,ligue-1,France,Lens,Paris FC,2,1,1,0.5223,0.2463,0.2314,1.874,1.194,1,1,dc-1.0,https://footballanalytics.pro/en/matches/lens-vs-paris-fc-5802967
+5802969,2026-10-25T14:00:00.000Z,Ligue 1,ligue-1,France,Monaco,Lille,1,1,X,0.383,0.3067,0.3103,1.24,1.092,1,0,dc-1.0,https://footballanalytics.pro/en/matches/monaco-vs-lille-5802969
+5802964,2026-10-25T16:15:00.000Z,Ligue 1,ligue-1,France,Angers,Lorient,0,0,X,0.2308,0.2987,0.4706,0.901,1.391,2,0,dc-1.0,https://footballanalytics.pro/en/matches/angers-vs-lorient-5802964
+5802965,2026-10-25T16:15:00.000Z,Ligue 1,ligue-1,France,Auxerre,Le Mans,1,1,X,0.477,0.2403,0.2827,1.922,1.453,1,0,dc-1.0,https://footballanalytics.pro/en/matches/auxerre-vs-le-mans-5802965
+5802968,2026-10-25T16:15:00.000Z,Ligue 1,ligue-1,France,Marseille,Le Havre,4,3,1,0.6316,0.233,0.1353,1.916,0.781,1,1,dc-1.0,https://footballanalytics.pro/en/matches/marseille-vs-le-havre-5802968
+5802970,2026-10-25T16:15:00.000Z,Ligue 1,ligue-1,France,Rennes,Strasbourg,3,0,1,0.5148,0.2028,0.2824,2.476,1.844,1,1,dc-1.0,https://footballanalytics.pro/en/matches/rennes-vs-strasbourg-5802970
+5802971,2026-10-25T16:15:00.000Z,Ligue 1,ligue-1,France,Toulouse,Troyes,0,0,X,0.7986,0.1422,0.0592,2.694,0.648,1,0,dc-1.0,https://footballanalytics.pro/en/matches/toulouse-vs-troyes-5802971
+5802972,2026-10-26T19:30:00.000Z,Ligue 1,ligue-1,France,Paris Saint-Germain,Lyon,2,0,1,0.5406,0.2588,0.2006,1.739,0.981,1,1,dc-1.0,https://footballanalytics.pro/en/matches/paris-saint-germain-vs-lyon-5802972
+5802973,2026-10-30T18:00:00.000Z,Ligue 1,ligue-1,France,Le Havre,Paris Saint-Germain,1,5,2,0.1133,0.2211,0.6656,0.702,1.98,2,1,dc-1.0,https://footballanalytics.pro/en/matches/le-havre-vs-paris-saint-germain-5802973
+5802978,2026-10-30T18:00:00.000Z,Ligue 1,ligue-1,France,Nice,Rennes,5,2,1,0.249,0.2476,0.5035,1.26,1.857,2,0,dc-1.0,https://footballanalytics.pro/en/matches/nice-vs-rennes-5802978
+5802974,2026-10-30T20:05:00.000Z,Ligue 1,ligue-1,France,Lille,Lens,1,0,1,0.3962,0.294,0.3098,1.342,1.161,1,1,dc-1.0,https://footballanalytics.pro/en/matches/lille-vs-lens-5802974
+5802981,2026-10-31T19:45:00.000Z,Ligue 1,ligue-1,France,Troyes,Le Mans,2,0,1,0.1856,0.2658,0.5486,0.879,1.668,2,0,dc-1.0,https://footballanalytics.pro/en/matches/troyes-vs-le-mans-5802981
+5802980,2026-11-01T14:00:00.000Z,Ligue 1,ligue-1,France,Strasbourg,Auxerre,5,1,1,0.5419,0.2321,0.226,2.04,1.273,1,1,dc-1.0,https://footballanalytics.pro/en/matches/strasbourg-vs-auxerre-5802980
+5802976,2026-11-01T16:15:00.000Z,Ligue 1,ligue-1,France,Lyon,Angers,2,0,1,0.7026,0.2066,0.0908,2.049,0.612,1,1,dc-1.0,https://footballanalytics.pro/en/matches/lyon-vs-angers-5802976
+5802979,2026-11-01T16:15:00.000Z,Ligue 1,ligue-1,France,Paris FC,Monaco,3,1,1,0.4003,0.276,0.3237,1.481,1.312,1,1,dc-1.0,https://footballanalytics.pro/en/matches/paris-fc-vs-monaco-5802979
+5802977,2026-11-01T19:45:00.000Z,Ligue 1,ligue-1,France,Marseille,Toulouse,2,0,1,0.5383,0.2285,0.2332,2.089,1.337,1,1,dc-1.0,https://footballanalytics.pro/en/matches/marseille-vs-toulouse-5802977
+5802975,2026-11-02T19:45:00.000Z,Ligue 1,ligue-1,France,Lorient,Brest,0,2,2,0.4785,0.2814,0.2401,1.526,1.017,1,0,dc-1.0,https://footballanalytics.pro/en/matches/lorient-vs-brest-5802975
+5802989,2026-11-06T19:45:00.000Z,Ligue 1,ligue-1,France,Toulouse,Strasbourg,3,1,1,0.4127,0.2487,0.3386,1.745,1.569,1,1,dc-1.0,https://footballanalytics.pro/en/matches/toulouse-vs-strasbourg-5802989
+5802983,2026-11-07T18:00:00.000Z,Ligue 1,ligue-1,France,Auxerre,Paris FC,0,1,2,0.2557,0.2647,0.4796,1.17,1.672,2,1,dc-1.0,https://footballanalytics.pro/en/matches/auxerre-vs-paris-fc-5802983
+5802987,2026-11-07T20:05:00.000Z,Ligue 1,ligue-1,France,Paris Saint-Germain,Troyes,1,0,1,0.8853,0.091,0.0237,3.102,0.428,1,1,dc-1.0,https://footballanalytics.pro/en/matches/paris-saint-germain-vs-troyes-5802987
+5802988,2026-11-08T14:00:00.000Z,Ligue 1,ligue-1,France,Rennes,Lille,1,2,2,0.3373,0.2795,0.3832,1.323,1.423,2,1,dc-1.0,https://footballanalytics.pro/en/matches/rennes-vs-lille-5802988
+5802982,2026-11-08T16:15:00.000Z,Ligue 1,ligue-1,France,Angers,Nice,0,2,2,0.2994,0.3076,0.393,1.06,1.25,2,1,dc-1.0,https://footballanalytics.pro/en/matches/angers-vs-nice-5802982
+5802984,2026-11-08T16:15:00.000Z,Ligue 1,ligue-1,France,Brest,Lyon,2,0,1,0.2957,0.2808,0.4234,1.201,1.478,2,0,dc-1.0,https://footballanalytics.pro/en/matches/brest-vs-lyon-5802984
+5802985,2026-11-08T16:15:00.000Z,Ligue 1,ligue-1,France,Le Havre,Lorient,0,2,2,0.2988,0.3231,0.3781,0.984,1.14,2,1,dc-1.0,https://footballanalytics.pro/en/matches/le-havre-vs-lorient-5802985
+5802986,2026-11-08T16:15:00.000Z,Ligue 1,ligue-1,France,Le Mans,Monaco,1,1,X,0.2285,0.2375,0.534,1.244,1.975,2,0,dc-1.0,https://footballanalytics.pro/en/matches/le-mans-vs-monaco-5802986
+5802990,2026-11-08T19:45:00.000Z,Ligue 1,ligue-1,France,Lens,Marseille,1,2,2,0.5252,0.2217,0.2531,2.183,1.493,1,0,dc-1.0,https://footballanalytics.pro/en/matches/lens-vs-marseille-5802990

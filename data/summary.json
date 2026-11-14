@@ -1,0 +1,168 @@
+{
+  "source": "https://footballanalytics.pro/data/all.csv",
+  "license": "CC-BY-4.0",
+  "first_kickoff_utc": "2026-06-07T15:00:00.000Z",
+  "last_kickoff_utc": "2026-11-09T18:00:00.000Z",
+  "all": {
+    "matches": 1545,
+    "picks": 1545,
+    "pick_hit_rate": 0.5256,
+    "home_win_rate": 0.4498,
+    "brier": 0.5897
+  },
+  "leagues": {
+    "1-divisjon": {
+      "league": "1. Divisjon",
+      "country": "Norway",
+      "matches": 161,
+      "picks": 161,
+      "pick_hit_rate": 0.5528,
+      "home_win_rate": 0.4969,
+      "brier": 0.5748
+    },
+    "championship": {
+      "league": "Championship",
+      "country": "England",
+      "matches": 158,
+      "picks": 158,
+      "pick_hit_rate": 0.4177,
+      "home_win_rate": 0.4367,
+      "brier": 0.674
+    },
+    "brasileirao": {
+      "league": "Brasileirão",
+      "country": "Brazil",
+      "matches": 142,
+      "picks": 142,
+      "pick_hit_rate": 0.5211,
+      "home_win_rate": 0.4789,
+      "brier": 0.5848
+    },
+    "ekstraklasa": {
+      "league": "Ekstraklasa",
+      "country": "Poland",
+      "matches": 122,
+      "picks": 122,
+      "pick_hit_rate": 0.5328,
+      "home_win_rate": 0.4918,
+      "brier": 0.5899
+    },
+    "eliteserien": {
+      "league": "Eliteserien",
+      "country": "Norway",
+      "matches": 117,
+      "picks": 117,
+      "pick_hit_rate": 0.547,
+      "home_win_rate": 0.4701,
+      "brier": 0.5582
+    },
+    "la-liga": {
+      "league": "LaLiga",
+      "country": "Spain",
+      "matches": 109,
+      "picks": 109,
+      "pick_hit_rate": 0.5321,
+      "home_win_rate": 0.4312,
+      "brier": 0.565
+    },
+    "serie-a": {
+      "league": "Serie A",
+      "country": "Italy",
+      "matches": 98,
+      "picks": 98,
+      "pick_hit_rate": 0.6122,
+      "home_win_rate": 0.4286,
+      "brier": 0.5275
+    },
+    "liga-portugal": {
+      "league": "Liga Portugal",
+      "country": "Portugal",
+      "matches": 93,
+      "picks": 93,
+      "pick_hit_rate": 0.5699,
+      "home_win_rate": 0.3871,
+      "brier": 0.5315
+    },
+    "eredivisie": {
+      "league": "Eredivisie",
+      "country": "Netherlands",
+      "matches": 91,
+      "picks": 91,
+      "pick_hit_rate": 0.4945,
+      "home_win_rate": 0.3297,
+      "brier": 0.6182
+    },
+    "super-lig": {
+      "league": "Süper Lig",
+      "country": "Türkiye",
+      "matches": 90,
+      "picks": 90,
+      "pick_hit_rate": 0.5444,
+      "home_win_rate": 0.4778,
+      "brier": 0.5591
+    },
+    "premier-league": {
+      "league": "Premier League",
+      "country": "England",
+      "matches": 87,
+      "picks": 87,
+      "pick_hit_rate": 0.4483,
+      "home_win_rate": 0.4023,
+      "brier": 0.6296
+    },
+    "superligaen": {
+      "league": "Superligaen",
+      "country": "Denmark",
+      "matches": 84,
+      "picks": 84,
+      "pick_hit_rate": 0.5357,
+      "home_win_rate": 0.4643,
+      "brier": 0.6257
+    },
+    "ligue-1": {
+      "league": "Ligue 1",
+      "country": "France",
+      "matches": 82,
+      "picks": 82,
+      "pick_hit_rate": 0.5488,
+      "home_win_rate": 0.4634,
+      "brier": 0.6077
+    },
+    "bundesliga": {
+      "league": "Bundesliga",
+      "country": "Germany",
+      "matches": 67,
+      "picks": 67,
+      "pick_hit_rate": 0.5522,
+      "home_win_rate": 0.5075,
+      "brier": 0.5864
+    },
+    "europa-league": {
+      "league": "Europa League",
+      "country": "Europe",
+      "matches": 18,
+      "picks": 18,
+      "pick_hit_rate": 0.4444,
+      "home_win_rate": 0.3333,
+      "brier": 0.668
+    },
+    "conference-league": {
+      "league": "Conference League",
+      "country": "Europe",
+      "matches": 17,
+      "picks": 17,
+      "pick_hit_rate": 0.4706,
+      "home_win_rate": 0.5294,
+      "brier": 0.6004
+    },
+    "champions-league": {
+      "league": "Champions League",
+      "country": "Europe",
+      "matches": 9,
+      "picks": 9,
+      "pick_hit_rate": 0.7778,
+      "home_win_rate": 0.4444,
+      "brier": 0.4258
+    }
+  }
+}

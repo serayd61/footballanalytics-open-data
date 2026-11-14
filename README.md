@@ -1,50 +1,132 @@
-# footballanalytics.pro — open data
+# Football match predictions: pre-match probabilities and results
 
-Settled football match predictions of the [Football Analytics](https://footballanalytics.pro) model: for every finished match in 11 covered leagues, the 1X2 probabilities and goal expectations the model stored **before kick-off**, its pick, and the final score. Nothing is filtered by outcome — losing picks sit next to winning ones.
+Every settled prediction of the [Football Analytics](https://footballanalytics.pro) model as flat CSV files: for each finished match in a covered competition, the 1X2 probabilities the model stored before kick-off, its goal expectations, its pick, and the final score.
 
-- Documentation and column reference: <https://footballanalytics.pro/en/data>
-- Live files (refreshed hourly): `https://footballanalytics.pro/data/all.csv` · `https://footballanalytics.pro/data/{league-slug}.csv` · `.json` variants
-- Track record with calibration and closing-line ROI: <https://footballanalytics.pro/en/performance>
-- Method (Dixon-Coles / Poisson with ELO prior): <https://footballanalytics.pro/en/methodology>
+Nothing is filtered by outcome. The losing picks are in the file next to the winners, so the record can be checked and scored by anyone.
 
-This repository mirrors the files once a day (`data/`) so a season can be cited at a fixed commit.
+- Canonical source and documentation: <https://footballanalytics.pro/en/data>
+- Live track record with calibration: <https://footballanalytics.pro/en/performance>
+- How the model works: <https://footballanalytics.pro/en/methodology>
+- Licence: [CC BY 4.0](LICENSE)
+
+## Current snapshot
+
+<!-- stats:start -->
+**1,545 settled matches · 17 competitions · 2026-06-07 to 2026-11-09**
+
+| | Value | Reference |
+|---|---|---|
+| Pick hit rate (1X2) | 52.6% | always picking the home side: 45.0% |
+| Brier score (sum over 1/X/2, lower is better) | 0.5897 | uniform ⅓ guess: 0.6667 |
+
+| Competition | Matches | Pick hit rate | Brier | File |
+|---|---:|---:|---:|---|
+| 1. Divisjon | 161 | 55.3% | 0.5748 | [`1-divisjon.csv`](data/leagues/1-divisjon.csv) |
+| Championship | 158 | 41.8% | 0.6740 | [`championship.csv`](data/leagues/championship.csv) |
+| Brasileirão | 142 | 52.1% | 0.5848 | [`brasileirao.csv`](data/leagues/brasileirao.csv) |
+| Ekstraklasa | 122 | 53.3% | 0.5899 | [`ekstraklasa.csv`](data/leagues/ekstraklasa.csv) |
+| Eliteserien | 117 | 54.7% | 0.5582 | [`eliteserien.csv`](data/leagues/eliteserien.csv) |
+| LaLiga | 109 | 53.2% | 0.5650 | [`la-liga.csv`](data/leagues/la-liga.csv) |
+| Serie A | 98 | 61.2% | 0.5275 | [`serie-a.csv`](data/leagues/serie-a.csv) |
+| Liga Portugal | 93 | 57.0% | 0.5315 | [`liga-portugal.csv`](data/leagues/liga-portugal.csv) |
+| Eredivisie | 91 | 49.5% | 0.6182 | [`eredivisie.csv`](data/leagues/eredivisie.csv) |
+| Süper Lig | 90 | 54.4% | 0.5591 | [`super-lig.csv`](data/leagues/super-lig.csv) |
+| Premier League | 87 | 44.8% | 0.6296 | [`premier-league.csv`](data/leagues/premier-league.csv) |
+| Superligaen | 84 | 53.6% | 0.6257 | [`superligaen.csv`](data/leagues/superligaen.csv) |
+| Ligue 1 | 82 | 54.9% | 0.6077 | [`ligue-1.csv`](data/leagues/ligue-1.csv) |
+| Bundesliga | 67 | 55.2% | 0.5864 | [`bundesliga.csv`](data/leagues/bundesliga.csv) |
+| Europa League | 18 | 44.4% | 0.6680 | [`europa-league.csv`](data/leagues/europa-league.csv) |
+| Conference League | 17 | 47.1% | 0.6004 | [`conference-league.csv`](data/leagues/conference-league.csv) |
+| Champions League | 9 | 77.8% | 0.4258 | [`champions-league.csv`](data/leagues/champions-league.csv) |
+<!-- stats:end -->
+
+The files in this repository are refreshed once a day from the canonical source, which itself updates hourly as matches are settled. The commit history goes back to 17 October 2026 and shows each day's additions, so the record can be audited against any earlier date.
 
 ## Files
 
-| File | Content |
+| Path | Contents |
 |---|---|
-| `data/all.csv` | every settled match, all leagues |
-| `data/<league-slug>.csv` | one league (`premier-league`, `championship`, `la-liga`, `serie-a`, `bundesliga`, `ligue-1`, `eredivisie`, `liga-portugal`, `champions-league`, `brasileirao`, `super-lig`) |
+| `data/all.csv` | Every settled match, kick-off order |
+| `data/leagues/{slug}.csv` | The same rows, one file per competition |
+| `data/summary.json` | Row counts, hit rate and Brier score, overall and per competition |
 
-One row per match, UTF-8, comma-separated, kick-off order. Columns:
+One row per match, UTF-8, comma-separated, header row.
 
-`fixture_id, kickoff_utc, league, league_slug, country, home_team, away_team, home_score, away_score, result, p_home, p_draw, p_away, lambda_home, lambda_away, pick, pick_correct, model_version, match_url`
+## Columns
 
-`result` is 1 / X / 2 from the score; `pick` is the model's pre-match argmax; `pick_correct` is 1/0 (empty without a pick); `lambda_*` are the model's Poisson goal rates (not shot-based xG).
+| Column | Meaning |
+|---|---|
+| `fixture_id` | Match identifier (stable; the trailing number of the match URL). |
+| `kickoff_utc` | Kick-off in UTC, ISO 8601. |
+| `league` | Competition name. |
+| `league_slug` | Competition slug, as used in the file names. |
+| `country` | Country or confederation of the competition. |
+| `home_team`, `away_team` | Club names. |
+| `home_score`, `away_score` | Final goals after 90 minutes plus stoppage time; no extra time. |
+| `result` | Final result from the score: `1` home win, `X` draw, `2` away win. |
+| `p_home`, `p_draw`, `p_away` | Model probabilities stored before kick-off (0–1). They sum to 1 within rounding. |
+| `lambda_home`, `lambda_away` | Model goal expectation for each side (Poisson rate). |
+| `pick` | The model's pre-match 1X2 pick (the most likely outcome). |
+| `pick_correct` | `1` if the pick matched the result, `0` if not. |
+| `model_version` | Version of the model that produced the row. |
+| `match_url` | Public match page with the settled verdict. |
 
 ## Quick start
 
+Python:
+
 ```python
 import pandas as pd
-df = pd.read_csv("https://footballanalytics.pro/data/all.csv")
-df["brier"] = ((df.result == "1") - df.p_home) ** 2 + ((df.result == "X") - df.p_draw) ** 2 + ((df.result == "2") - df.p_away) ** 2
-print(df.groupby("league")[["brier", "pick_correct"]].mean().round(3))
+
+df = pd.read_csv("https://raw.githubusercontent.com/serayd61/football-predictions-open-data/main/data/all.csv")
+df["brier"] = (
+    ((df.result == "1") - df.p_home) ** 2
+    + ((df.result == "X") - df.p_draw) ** 2
+    + ((df.result == "2") - df.p_away) ** 2
+)
+print(df.groupby("league").agg(matches=("brier", "size"), brier=("brier", "mean"), hit_rate=("pick_correct", "mean")))
 ```
 
-See `examples/brier.py` for a calibration table.
+R:
+
+```r
+df <- read.csv("https://raw.githubusercontent.com/serayd61/football-predictions-open-data/main/data/all.csv")
+mean(df$pick_correct, na.rm = TRUE)
+```
+
+DuckDB, straight over HTTP:
+
+```sql
+SELECT league, count(*) AS matches, avg(pick_correct) AS hit_rate
+FROM read_csv_auto('https://raw.githubusercontent.com/serayd61/football-predictions-open-data/main/data/all.csv')
+GROUP BY league ORDER BY matches DESC;
+```
+
+A calibration check that needs only the standard library is in [`examples/calibration.py`](examples/calibration.py).
 
 ## What the data is, and is not
 
-- Pre-match figures only: written before kick-off, never revised.
-- Settled matches only: a fixture appears once it has a final score. Upcoming predictions are not published.
-- Covered leagues only; the model is fitted per league.
-- No bookmaker odds (third-party data, not redistributed).
-- Data starts June 2026, when the current model went live.
+- **Pre-match figures only.** Every probability was written before kick-off and never revised. The match page behind `match_url` shows the same numbers.
+- **Settled matches only.** A fixture appears once it has a final score. Postponed or abandoned matches are absent, not marked. Upcoming predictions are not in the file.
+- **Covered competitions only.** The model is fitted per competition; matches outside the covered set are not included.
+- **Goal expectations are model estimates** from a Dixon-Coles / Poisson attack-and-defence model, not shot-based xG from event data.
+- **No bookmaker odds.** The odds are third-party data and are not redistributed here.
+- **One official model version per match.** Versions under evaluation are never published.
 
-## Licence
+## Ideas for use
 
-[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Use it for anything, including commercial work; credit **Football Analytics** and link to <https://footballanalytics.pro/data>.
+- A benchmark: score your own model on the same fixtures and compare Brier scores.
+- Teaching material for probability calibration, proper scoring rules and Poisson goal models.
+- Checking how prediction quality varies by competition, by favourite strength or over a season.
 
-Suggested citation:
+## Licence and citation
 
-> Football Analytics (2026). Settled model predictions dataset: pre-match 1X2 probabilities and results, 11 leagues. https://footballanalytics.pro/data. Licence: CC BY 4.0.
+Published under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/). You may copy, redistribute, transform and build on the data for any purpose, including commercially, as long as you credit Football Analytics and link to <https://footballanalytics.pro/data>.
+
+> Football Analytics. Settled model predictions dataset: pre-match 1X2 probabilities and results. https://footballanalytics.pro/data. Licence: CC BY 4.0.
+
+A machine-readable citation is in [`CITATION.cff`](CITATION.cff).
+
+## Corrections
+
+If a score, a team name or a kick-off time looks wrong, open an issue with the `fixture_id`. Corrections are made at the source and reach this repository with the next daily refresh.

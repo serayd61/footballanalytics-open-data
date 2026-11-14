@@ -1,0 +1,162 @@
+fixture_id,kickoff_utc,league,league_slug,country,home_team,away_team,home_score,away_score,result,p_home,p_draw,p_away,lambda_home,lambda_away,pick,pick_correct,model_version,match_url
+5105087,2026-06-07T15:00:00.000Z,1. Divisjon,1-divisjon,Norway,Ranheim,Strømmen,2,2,X,0.7586,0.1201,0.1213,3.954,1.762,1,0,dc-1.0,https://footballanalytics.pro/en/matches/ranheim-vs-strommen-5105087
+5105162,2026-06-14T14:00:00.000Z,1. Divisjon,1-divisjon,Norway,FK Haugesund,Ranheim,4,1,1,0.4527,0.1736,0.3737,3.033,2.788,1,1,dc-1.0,https://footballanalytics.pro/en/matches/fk-haugesund-vs-ranheim-5105162
+5105163,2026-06-14T14:00:00.000Z,1. Divisjon,1-divisjon,Norway,Hødd,Kongsvinger,1,2,2,0.2004,0.2274,0.5723,1.179,2.083,2,1,dc-1.0,https://footballanalytics.pro/en/matches/hodd-vs-kongsvinger-5105163
+5105164,2026-06-14T14:00:00.000Z,1. Divisjon,1-divisjon,Norway,Lyn,Bryne,0,3,2,0.371,0.2753,0.3537,1.43,1.392,1,0,dc-1.0,https://footballanalytics.pro/en/matches/lyn-vs-bryne-5105164
+5105165,2026-06-14T14:00:00.000Z,1. Divisjon,1-divisjon,Norway,Sandnes Ulf,Strømmen,2,0,1,0.6428,0.1728,0.1844,2.926,1.601,1,1,dc-1.0,https://footballanalytics.pro/en/matches/sandnes-ulf-vs-strommen-5105165
+5105166,2026-06-14T14:00:00.000Z,1. Divisjon,1-divisjon,Norway,Sogndal,Moss,2,4,2,0.5207,0.2101,0.2692,2.355,1.691,1,0,dc-1.0,https://footballanalytics.pro/en/matches/sogndal-vs-moss-5105166
+5105167,2026-06-14T14:00:00.000Z,1. Divisjon,1-divisjon,Norway,Stabæk,Egersund,3,1,1,0.5555,0.2172,0.2273,2.24,1.405,1,1,dc-1.0,https://footballanalytics.pro/en/matches/stab-k-vs-egersund-5105167
+5105168,2026-06-14T14:00:00.000Z,1. Divisjon,1-divisjon,Norway,Strømsgodset,Raufoss,6,1,1,0.792,0.1208,0.0873,3.509,1.231,1,1,dc-1.0,https://footballanalytics.pro/en/matches/stromsgodset-vs-raufoss-5105168
+5105169,2026-06-14T14:00:00.000Z,1. Divisjon,1-divisjon,Norway,Åsane,Odds Ballklubb,2,1,1,0.2694,0.2251,0.5055,1.536,2.131,2,0,dc-1.0,https://footballanalytics.pro/en/matches/asane-vs-odds-ballklubb-5105169
+5105175,2026-06-19T17:00:00.000Z,1. Divisjon,1-divisjon,Norway,Ranheim,Lyn,3,2,1,0.6068,0.1997,0.1935,2.461,1.369,1,1,dc-1.0,https://footballanalytics.pro/en/matches/ranheim-vs-lyn-5105175
+5105170,2026-06-21T14:00:00.000Z,1. Divisjon,1-divisjon,Norway,Bryne,Åsane,1,0,1,0.6211,0.2066,0.1723,2.317,1.173,1,1,dc-1.0,https://footballanalytics.pro/en/matches/bryne-vs-asane-5105170
+5105171,2026-06-21T14:00:00.000Z,1. Divisjon,1-divisjon,Norway,Egersund,FK Haugesund,5,2,1,0.4379,0.2071,0.3551,2.319,2.094,1,1,dc-1.0,https://footballanalytics.pro/en/matches/egersund-vs-fk-haugesund-5105171
+5105172,2026-06-21T14:00:00.000Z,1. Divisjon,1-divisjon,Norway,Kongsvinger,Strømsgodset,4,4,X,0.513,0.2004,0.2867,2.518,1.897,1,0,dc-1.0,https://footballanalytics.pro/en/matches/kongsvinger-vs-stromsgodset-5105172
+5105173,2026-06-21T14:00:00.000Z,1. Divisjon,1-divisjon,Norway,Moss,Sandnes Ulf,1,4,2,0.3471,0.2274,0.4256,1.809,2.009,2,1,dc-1.0,https://footballanalytics.pro/en/matches/moss-vs-sandnes-ulf-5105173
+5105174,2026-06-21T14:00:00.000Z,1. Divisjon,1-divisjon,Norway,Odds Ballklubb,Hødd,0,0,X,0.5609,0.2315,0.2076,2.039,1.186,1,0,dc-1.0,https://footballanalytics.pro/en/matches/odds-ballklubb-vs-hodd-5105174
+5105176,2026-06-21T14:00:00.000Z,1. Divisjon,1-divisjon,Norway,Raufoss,Sogndal,3,1,1,0.3461,0.2272,0.4267,1.808,2.013,2,0,dc-1.0,https://footballanalytics.pro/en/matches/raufoss-vs-sogndal-5105176
+5105177,2026-06-21T14:00:00.000Z,1. Divisjon,1-divisjon,Norway,Strømmen,Stabæk,1,0,1,0.2238,0.1817,0.5945,1.779,2.841,2,0,dc-1.0,https://footballanalytics.pro/en/matches/strommen-vs-stab-k-5105177
+5105178,2026-06-27T14:00:00.000Z,1. Divisjon,1-divisjon,Norway,FK Haugesund,Kongsvinger,4,2,1,0.3327,0.19,0.4774,2.273,2.69,2,0,dc-1.0,https://footballanalytics.pro/en/matches/fk-haugesund-vs-kongsvinger-5105178
+5105179,2026-06-27T14:00:00.000Z,1. Divisjon,1-divisjon,Norway,Lyn,Hødd,1,4,2,0.4511,0.2888,0.2601,1.448,1.045,1,0,dc-1.0,https://footballanalytics.pro/en/matches/lyn-vs-hodd-5105179
+5105180,2026-06-27T14:00:00.000Z,1. Divisjon,1-divisjon,Norway,Sandnes Ulf,Raufoss,3,0,1,0.6382,0.1907,0.171,2.555,1.301,1,1,dc-1.0,https://footballanalytics.pro/en/matches/sandnes-ulf-vs-raufoss-5105180
+5105182,2026-06-27T14:00:00.000Z,1. Divisjon,1-divisjon,Norway,Stabæk,Bryne,2,0,1,0.56,0.2143,0.2256,2.279,1.422,1,1,dc-1.0,https://footballanalytics.pro/en/matches/stab-k-vs-bryne-5105182
+5105183,2026-06-27T14:00:00.000Z,1. Divisjon,1-divisjon,Norway,Strømmen,Moss,3,2,1,0.4371,0.2054,0.3575,2.343,2.126,1,1,dc-1.0,https://footballanalytics.pro/en/matches/strommen-vs-moss-5105183
+5105185,2026-06-27T14:00:00.000Z,1. Divisjon,1-divisjon,Norway,Åsane,Ranheim,3,0,1,0.2148,0.1852,0.6,1.67,2.753,2,0,dc-1.0,https://footballanalytics.pro/en/matches/asane-vs-ranheim-5105185
+5105184,2026-06-27T16:00:00.000Z,1. Divisjon,1-divisjon,Norway,Strømsgodset,Odds Ballklubb,2,2,X,0.6176,0.1796,0.2028,2.84,1.656,1,0,dc-1.0,https://footballanalytics.pro/en/matches/stromsgodset-vs-odds-ballklubb-5105184
+5105181,2026-06-27T18:00:00.000Z,1. Divisjon,1-divisjon,Norway,Sogndal,Egersund,4,2,1,0.3934,0.2379,0.3687,1.818,1.758,1,1,dc-1.0,https://footballanalytics.pro/en/matches/sogndal-vs-egersund-5105181
+5105190,2026-07-02T16:00:00.000Z,1. Divisjon,1-divisjon,Norway,Lyn,Åsane,6,2,1,0.5353,0.2487,0.216,1.847,1.11,1,1,dc-1.0,https://footballanalytics.pro/en/matches/lyn-vs-asane-5105190
+5105189,2026-07-03T16:00:00.000Z,1. Divisjon,1-divisjon,Norway,Kongsvinger,Sogndal,5,1,1,0.712,0.1563,0.1318,3.034,1.327,1,1,dc-1.0,https://footballanalytics.pro/en/matches/kongsvinger-vs-sogndal-5105189
+5105193,2026-07-03T16:00:00.000Z,1. Divisjon,1-divisjon,Norway,Raufoss,Strømmen,1,0,1,0.4451,0.2108,0.3441,2.274,2.003,1,1,dc-1.0,https://footballanalytics.pro/en/matches/raufoss-vs-strommen-5105193
+5105192,2026-07-03T17:00:00.000Z,1. Divisjon,1-divisjon,Norway,Ranheim,Stabæk,2,5,2,0.4603,0.1979,0.3418,2.514,2.182,1,0,dc-1.0,https://footballanalytics.pro/en/matches/ranheim-vs-stab-k-5105192
+5105187,2026-07-04T12:00:00.000Z,1. Divisjon,1-divisjon,Norway,Egersund,Moss,3,0,1,0.5657,0.2155,0.2188,2.257,1.374,1,1,dc-1.0,https://footballanalytics.pro/en/matches/egersund-vs-moss-5105187
+5105188,2026-07-04T14:00:00.000Z,1. Divisjon,1-divisjon,Norway,Hødd,Strømsgodset,4,3,1,0.2222,0.2201,0.5577,1.352,2.195,2,0,dc-1.0,https://footballanalytics.pro/en/matches/hodd-vs-stromsgodset-5105188
+5105186,2026-07-04T16:00:00.000Z,1. Divisjon,1-divisjon,Norway,Bryne,Sandnes Ulf,1,1,X,0.4471,0.2391,0.3138,1.904,1.578,1,0,dc-1.0,https://footballanalytics.pro/en/matches/bryne-vs-sandnes-ulf-5105186
+5105191,2026-07-05T14:00:00.000Z,1. Divisjon,1-divisjon,Norway,Odds Ballklubb,FK Haugesund,1,3,2,0.4642,0.192,0.3439,2.632,2.288,1,0,dc-1.0,https://footballanalytics.pro/en/matches/odds-ballklubb-vs-fk-haugesund-5105191
+5105194,2026-07-25T16:00:00.000Z,1. Divisjon,1-divisjon,Norway,Strømsgodset,Lyn,1,1,X,0.655,0.1908,0.1541,2.502,1.177,1,0,dc-1.0,https://footballanalytics.pro/en/matches/stromsgodset-vs-lyn-5105194
+5105195,2026-07-25T18:00:00.000Z,1. Divisjon,1-divisjon,Norway,FK Haugesund,Bryne,1,2,2,0.5232,0.1961,0.2807,2.599,1.924,1,0,dc-1.0,https://footballanalytics.pro/en/matches/fk-haugesund-vs-bryne-5105195
+5105196,2026-07-26T15:00:00.000Z,1. Divisjon,1-divisjon,Norway,Moss,Raufoss,1,2,2,0.528,0.2161,0.2559,2.264,1.561,1,0,dc-1.0,https://footballanalytics.pro/en/matches/moss-vs-raufoss-5105196
+5105197,2026-07-26T15:00:00.000Z,1. Divisjon,1-divisjon,Norway,Sandnes Ulf,Kongsvinger,1,6,2,0.2928,0.2205,0.4867,1.684,2.183,2,1,dc-1.0,https://footballanalytics.pro/en/matches/sandnes-ulf-vs-kongsvinger-5105197
+5105198,2026-07-26T15:00:00.000Z,1. Divisjon,1-divisjon,Norway,Sogndal,Ranheim,3,2,1,0.3281,0.1956,0.4763,2.16,2.578,2,0,dc-1.0,https://footballanalytics.pro/en/matches/sogndal-vs-ranheim-5105198
+5105200,2026-07-26T15:00:00.000Z,1. Divisjon,1-divisjon,Norway,Strømmen,Odds Ballklubb,0,0,X,0.3033,0.2004,0.4964,1.977,2.509,2,0,dc-1.0,https://footballanalytics.pro/en/matches/strommen-vs-odds-ballklubb-5105200
+5105201,2026-07-26T15:00:00.000Z,1. Divisjon,1-divisjon,Norway,Åsane,Egersund,3,3,X,0.2791,0.2443,0.4766,1.406,1.877,2,0,dc-1.0,https://footballanalytics.pro/en/matches/asane-vs-egersund-5105201
+5105199,2026-07-27T17:00:00.000Z,1. Divisjon,1-divisjon,Norway,Stabæk,Hødd,6,0,1,0.6429,0.2039,0.1533,2.308,1.067,1,1,dc-1.0,https://footballanalytics.pro/en/matches/stab-k-vs-hodd-5105199
+5105202,2026-08-01T15:00:00.000Z,1. Divisjon,1-divisjon,Norway,Bryne,Strømsgodset,0,2,2,0.3193,0.2196,0.461,1.801,2.168,2,1,dc-1.0,https://footballanalytics.pro/en/matches/bryne-vs-stromsgodset-5105202
+5105203,2026-08-02T15:00:00.000Z,1. Divisjon,1-divisjon,Norway,Egersund,Sandnes Ulf,2,0,1,0.4476,0.2411,0.3113,1.881,1.551,1,1,dc-1.0,https://footballanalytics.pro/en/matches/egersund-vs-sandnes-ulf-5105203
+5105204,2026-08-02T15:00:00.000Z,1. Divisjon,1-divisjon,Norway,Hødd,Moss,2,1,1,0.4365,0.2556,0.3079,1.715,1.416,1,1,dc-1.0,https://footballanalytics.pro/en/matches/hodd-vs-moss-5105204
+5105205,2026-08-02T15:00:00.000Z,1. Divisjon,1-divisjon,Norway,Kongsvinger,Strømmen,1,3,2,0.8111,0.108,0.0808,3.815,1.32,1,0,dc-1.0,https://footballanalytics.pro/en/matches/kongsvinger-vs-strommen-5105205
+5105206,2026-08-02T15:00:00.000Z,1. Divisjon,1-divisjon,Norway,Lyn,Sogndal,3,2,1,0.4358,0.2541,0.3101,1.729,1.435,1,1,dc-1.0,https://footballanalytics.pro/en/matches/lyn-vs-sogndal-5105206
+5105207,2026-08-02T15:00:00.000Z,1. Divisjon,1-divisjon,Norway,Odds Ballklubb,Åsane,4,1,1,0.655,0.1859,0.1592,2.599,1.259,1,1,dc-1.0,https://footballanalytics.pro/en/matches/odds-ballklubb-vs-asane-5105207
+5105209,2026-08-02T15:00:00.000Z,1. Divisjon,1-divisjon,Norway,Raufoss,Stabæk,0,2,2,0.2057,0.1998,0.5945,1.446,2.48,2,1,dc-1.0,https://footballanalytics.pro/en/matches/raufoss-vs-stab-k-5105209
+5105208,2026-08-03T17:00:00.000Z,1. Divisjon,1-divisjon,Norway,Ranheim,FK Haugesund,3,4,2,0.5625,0.1626,0.2749,3.401,2.487,1,0,dc-1.0,https://footballanalytics.pro/en/matches/ranheim-vs-fk-haugesund-5105208
+5105214,2026-08-08T14:00:00.000Z,1. Divisjon,1-divisjon,Norway,Stabæk,Lyn,4,3,1,0.5978,0.2199,0.1823,2.156,1.133,1,1,dc-1.0,https://footballanalytics.pro/en/matches/stab-k-vs-lyn-5105214
+5105210,2026-08-09T15:00:00.000Z,1. Divisjon,1-divisjon,Norway,FK Haugesund,Raufoss,7,2,1,0.721,0.141,0.138,3.448,1.604,1,1,dc-1.0,https://footballanalytics.pro/en/matches/fk-haugesund-vs-raufoss-5105210
+5105212,2026-08-09T15:00:00.000Z,1. Divisjon,1-divisjon,Norway,Sandnes Ulf,Hødd,3,4,2,0.5444,0.2395,0.2162,1.949,1.172,1,0,dc-1.0,https://footballanalytics.pro/en/matches/sandnes-ulf-vs-hodd-5105212
+5105213,2026-08-09T15:00:00.000Z,1. Divisjon,1-divisjon,Norway,Sogndal,Bryne,0,2,2,0.3966,0.2357,0.3677,1.85,1.779,1,0,dc-1.0,https://footballanalytics.pro/en/matches/sogndal-vs-bryne-5105213
+5105215,2026-08-09T15:00:00.000Z,1. Divisjon,1-divisjon,Norway,Strømmen,Ranheim,1,4,2,0.2395,0.1659,0.5946,2.149,3.242,2,1,dc-1.0,https://footballanalytics.pro/en/matches/strommen-vs-ranheim-5105215
+5105216,2026-08-09T15:00:00.000Z,1. Divisjon,1-divisjon,Norway,Strømsgodset,Egersund,0,2,2,0.6139,0.1915,0.1946,2.599,1.459,1,0,dc-1.0,https://footballanalytics.pro/en/matches/stromsgodset-vs-egersund-5105216
+5105217,2026-08-09T15:00:00.000Z,1. Divisjon,1-divisjon,Norway,Åsane,Kongsvinger,1,2,2,0.1524,0.1811,0.6666,1.251,2.657,2,1,dc-1.0,https://footballanalytics.pro/en/matches/asane-vs-kongsvinger-5105217
+5105211,2026-08-10T17:00:00.000Z,1. Divisjon,1-divisjon,Norway,Moss,Odds Ballklubb,3,3,X,0.3365,0.2223,0.4411,1.832,2.101,2,0,dc-1.0,https://footballanalytics.pro/en/matches/moss-vs-odds-ballklubb-5105211
+5105218,2026-08-15T14:00:00.000Z,1. Divisjon,1-divisjon,Norway,Bryne,Moss,2,1,1,0.566,0.2137,0.2203,2.284,1.399,1,1,dc-1.0,https://footballanalytics.pro/en/matches/bryne-vs-moss-5105218
+5105222,2026-08-15T14:00:00.000Z,1. Divisjon,1-divisjon,Norway,Lyn,Odds Ballklubb,5,1,1,0.3642,0.2603,0.3755,1.536,1.562,2,0,dc-1.0,https://footballanalytics.pro/en/matches/lyn-vs-odds-ballklubb-5105222
+5105223,2026-08-15T14:00:00.000Z,1. Divisjon,1-divisjon,Norway,Ranheim,Strømsgodset,1,3,2,0.4193,0.1885,0.3922,2.61,2.531,1,0,dc-1.0,https://footballanalytics.pro/en/matches/ranheim-vs-stromsgodset-5105223
+5105219,2026-08-16T15:00:00.000Z,1. Divisjon,1-divisjon,Norway,Egersund,Stabæk,0,4,2,0.3556,0.2387,0.4056,1.714,1.836,2,1,dc-1.0,https://footballanalytics.pro/en/matches/egersund-vs-stab-k-5105219
+5105220,2026-08-16T15:00:00.000Z,1. Divisjon,1-divisjon,Norway,Hødd,Strømmen,4,3,1,0.4892,0.2307,0.2801,2.048,1.528,1,1,dc-1.0,https://footballanalytics.pro/en/matches/hodd-vs-strommen-5105220
+5105221,2026-08-16T15:00:00.000Z,1. Divisjon,1-divisjon,Norway,Kongsvinger,FK Haugesund,3,2,1,0.6511,0.1585,0.1903,3.281,1.864,1,1,dc-1.0,https://footballanalytics.pro/en/matches/kongsvinger-vs-fk-haugesund-5105221
+5105224,2026-08-16T15:00:00.000Z,1. Divisjon,1-divisjon,Norway,Raufoss,Åsane,1,2,2,0.4577,0.2378,0.3044,1.932,1.557,1,0,dc-1.0,https://footballanalytics.pro/en/matches/raufoss-vs-asane-5105224
+5105225,2026-08-16T15:00:00.000Z,1. Divisjon,1-divisjon,Norway,Sogndal,Sandnes Ulf,2,0,1,0.3977,0.2263,0.376,1.963,1.908,1,1,dc-1.0,https://footballanalytics.pro/en/matches/sogndal-vs-sandnes-ulf-5105225
+5105229,2026-08-22T14:00:00.000Z,1. Divisjon,1-divisjon,Norway,Sandnes Ulf,Bryne,0,1,2,0.4554,0.2382,0.3065,1.925,1.561,1,0,dc-1.0,https://footballanalytics.pro/en/matches/sandnes-ulf-vs-bryne-5105229
+5105231,2026-08-26T16:00:00.000Z,1. Divisjon,1-divisjon,Norway,Strømmen,Raufoss,3,1,1,0.5045,0.2044,0.2911,2.443,1.864,1,1,dc-1.0,https://footballanalytics.pro/en/matches/strommen-vs-raufoss-5105231
+5105226,2026-08-26T17:00:00.000Z,1. Divisjon,1-divisjon,Norway,FK Haugesund,Egersund,3,0,1,0.5189,0.1985,0.2826,2.554,1.901,1,1,dc-1.0,https://footballanalytics.pro/en/matches/fk-haugesund-vs-egersund-5105226
+5105227,2026-08-26T17:00:00.000Z,1. Divisjon,1-divisjon,Norway,Moss,Sogndal,2,2,X,0.4144,0.2215,0.364,2.062,1.931,1,0,dc-1.0,https://footballanalytics.pro/en/matches/moss-vs-sogndal-5105227
+5105228,2026-08-26T17:00:00.000Z,1. Divisjon,1-divisjon,Norway,Odds Ballklubb,Kongsvinger,0,1,2,0.3048,0.218,0.4771,1.761,2.209,2,1,dc-1.0,https://footballanalytics.pro/en/matches/odds-ballklubb-vs-kongsvinger-5105228
+5105230,2026-08-26T17:00:00.000Z,1. Divisjon,1-divisjon,Norway,Stabæk,Ranheim,4,2,1,0.5096,0.1927,0.2977,2.661,2.061,1,1,dc-1.0,https://footballanalytics.pro/en/matches/stab-k-vs-ranheim-5105230
+5105232,2026-08-26T17:00:00.000Z,1. Divisjon,1-divisjon,Norway,Strømsgodset,Hødd,3,1,1,0.6997,0.1734,0.1269,2.678,1.108,1,1,dc-1.0,https://footballanalytics.pro/en/matches/stromsgodset-vs-hodd-5105232
+5105233,2026-08-26T17:00:00.000Z,1. Divisjon,1-divisjon,Norway,Åsane,Lyn,1,2,2,0.3281,0.2718,0.4001,1.353,1.514,2,1,dc-1.0,https://footballanalytics.pro/en/matches/asane-vs-lyn-5105233
+5105234,2026-08-30T15:00:00.000Z,1. Divisjon,1-divisjon,Norway,Bryne,FK Haugesund,0,2,2,0.4368,0.2052,0.358,2.346,2.131,1,0,dc-1.0,https://footballanalytics.pro/en/matches/bryne-vs-fk-haugesund-5105234
+5105235,2026-08-30T15:00:00.000Z,1. Divisjon,1-divisjon,Norway,Egersund,Åsane,2,2,X,0.6203,0.2083,0.1713,2.29,1.153,1,0,dc-1.0,https://footballanalytics.pro/en/matches/egersund-vs-asane-5105235
+5105236,2026-08-30T15:00:00.000Z,1. Divisjon,1-divisjon,Norway,Hødd,Stabæk,2,1,1,0.2533,0.2443,0.5024,1.302,1.892,2,0,dc-1.0,https://footballanalytics.pro/en/matches/hodd-vs-stab-k-5105236
+5105237,2026-08-30T15:00:00.000Z,1. Divisjon,1-divisjon,Norway,Kongsvinger,Lyn,4,4,X,0.6647,0.196,0.1392,2.374,1.026,1,0,dc-1.0,https://footballanalytics.pro/en/matches/kongsvinger-vs-lyn-5105237
+5105238,2026-08-30T15:00:00.000Z,1. Divisjon,1-divisjon,Norway,Moss,Strømmen,1,2,2,0.5226,0.1964,0.281,2.593,1.921,1,0,dc-1.0,https://footballanalytics.pro/en/matches/moss-vs-strommen-5105238
+5105239,2026-08-30T15:00:00.000Z,1. Divisjon,1-divisjon,Norway,Ranheim,Odds Ballklubb,3,5,2,0.5583,0.186,0.2557,2.793,1.927,1,0,dc-1.0,https://footballanalytics.pro/en/matches/ranheim-vs-odds-ballklubb-5105239
+5105240,2026-08-30T15:00:00.000Z,1. Divisjon,1-divisjon,Norway,Raufoss,Sandnes Ulf,0,3,2,0.2857,0.227,0.4873,1.587,2.094,2,1,dc-1.0,https://footballanalytics.pro/en/matches/raufoss-vs-sandnes-ulf-5105240
+5105241,2026-08-30T15:00:00.000Z,1. Divisjon,1-divisjon,Norway,Sogndal,Strømsgodset,2,3,2,0.2651,0.1949,0.54,1.857,2.621,2,1,dc-1.0,https://footballanalytics.pro/en/matches/sogndal-vs-stromsgodset-5105241
+5105242,2026-09-05T14:00:00.000Z,1. Divisjon,1-divisjon,Norway,FK Haugesund,Sogndal,2,0,1,0.6076,0.1684,0.224,3.141,1.984,1,1,dc-1.0,https://footballanalytics.pro/en/matches/fk-haugesund-vs-sogndal-5105242
+5105243,2026-09-05T14:00:00.000Z,1. Divisjon,1-divisjon,Norway,Kongsvinger,Raufoss,9,1,1,0.7978,0.1234,0.0789,3.33,1.073,1,1,dc-1.0,https://footballanalytics.pro/en/matches/kongsvinger-vs-raufoss-5105243
+5105245,2026-09-05T14:00:00.000Z,1. Divisjon,1-divisjon,Norway,Odds Ballklubb,Strømsgodset,1,1,X,0.339,0.2081,0.4529,2.02,2.328,2,0,dc-1.0,https://footballanalytics.pro/en/matches/odds-ballklubb-vs-stromsgodset-5105245
+5105246,2026-09-05T14:00:00.000Z,1. Divisjon,1-divisjon,Norway,Sandnes Ulf,Ranheim,1,1,X,0.3946,0.2052,0.4002,2.247,2.262,2,0,dc-1.0,https://footballanalytics.pro/en/matches/sandnes-ulf-vs-ranheim-5105246
+5105248,2026-09-05T14:00:00.000Z,1. Divisjon,1-divisjon,Norway,Strømmen,Bryne,2,0,1,0.3171,0.2154,0.4675,1.841,2.236,2,0,dc-1.0,https://footballanalytics.pro/en/matches/strommen-vs-bryne-5105248
+5105249,2026-09-05T14:00:00.000Z,1. Divisjon,1-divisjon,Norway,Åsane,Hødd,2,2,X,0.3688,0.2723,0.3589,1.449,1.426,1,0,dc-1.0,https://footballanalytics.pro/en/matches/asane-vs-hodd-5105249
+5105247,2026-09-05T18:00:00.000Z,1. Divisjon,1-divisjon,Norway,Stabæk,Moss,2,3,2,0.6869,0.1665,0.1465,2.901,1.351,1,0,dc-1.0,https://footballanalytics.pro/en/matches/stab-k-vs-moss-5105247
+5105244,2026-09-06T15:00:00.000Z,1. Divisjon,1-divisjon,Norway,Lyn,Egersund,1,1,X,0.3679,0.2777,0.3544,1.406,1.376,1,0,dc-1.0,https://footballanalytics.pro/en/matches/lyn-vs-egersund-5105244
+5105250,2026-09-12T18:00:00.000Z,1. Divisjon,1-divisjon,Norway,Bryne,Stabæk,2,0,1,0.2366,0.2812,0.4822,1.005,1.53,2,0,dc-1.0,https://footballanalytics.pro/en/matches/bryne-vs-stab-k-5105250
+5105251,2026-09-13T15:00:00.000Z,1. Divisjon,1-divisjon,Norway,Egersund,Kongsvinger,1,1,X,0.276,0.2259,0.4981,1.557,2.117,2,0,dc-1.0,https://footballanalytics.pro/en/matches/egersund-vs-kongsvinger-5105251
+5105252,2026-09-13T15:00:00.000Z,1. Divisjon,1-divisjon,Norway,Hødd,Lyn,0,2,2,0.3907,0.2364,0.373,1.83,1.786,1,0,dc-1.0,https://footballanalytics.pro/en/matches/hodd-vs-lyn-5105252
+5105253,2026-09-13T15:00:00.000Z,1. Divisjon,1-divisjon,Norway,Moss,FK Haugesund,1,4,2,0.1545,0.1495,0.6961,1.654,3.333,2,1,dc-1.0,https://footballanalytics.pro/en/matches/moss-vs-fk-haugesund-5105253
+5105254,2026-09-13T15:00:00.000Z,1. Divisjon,1-divisjon,Norway,Ranheim,Åsane,2,2,X,0.5995,0.1813,0.2192,2.84,1.752,1,0,dc-1.0,https://footballanalytics.pro/en/matches/ranheim-vs-asane-5105254
+5105255,2026-09-13T15:00:00.000Z,1. Divisjon,1-divisjon,Norway,Raufoss,Odds Ballklubb,2,1,1,0.1974,0.223,0.5797,1.195,2.136,2,0,dc-1.0,https://footballanalytics.pro/en/matches/raufoss-vs-odds-ballklubb-5105255
+5105256,2026-09-13T15:00:00.000Z,1. Divisjon,1-divisjon,Norway,Sogndal,Strømmen,1,1,X,0.5035,0.2235,0.273,2.152,1.568,1,0,dc-1.0,https://footballanalytics.pro/en/matches/sogndal-vs-strommen-5105256
+5105257,2026-09-13T15:00:00.000Z,1. Divisjon,1-divisjon,Norway,Strømsgodset,Sandnes Ulf,4,1,1,0.7189,0.1696,0.1115,2.658,1.001,1,1,dc-1.0,https://footballanalytics.pro/en/matches/stromsgodset-vs-sandnes-ulf-5105257
+5105265,2026-09-19T14:00:00.000Z,1. Divisjon,1-divisjon,Norway,Åsane,Bryne,0,4,2,0.318,0.3045,0.3775,1.122,1.244,2,1,dc-1.0,https://footballanalytics.pro/en/matches/asane-vs-bryne-5105265
+5105258,2026-09-20T15:00:00.000Z,1. Divisjon,1-divisjon,Norway,FK Haugesund,Strømmen,4,2,1,0.8177,0.1071,0.0753,3.755,1.237,1,1,dc-1.0,https://footballanalytics.pro/en/matches/fk-haugesund-vs-strommen-5105258
+5105259,2026-09-20T15:00:00.000Z,1. Divisjon,1-divisjon,Norway,Kongsvinger,Hødd,5,1,1,0.7301,0.1518,0.1181,3.04,1.236,1,1,dc-1.0,https://footballanalytics.pro/en/matches/kongsvinger-vs-hodd-5105259
+5105260,2026-09-20T15:00:00.000Z,1. Divisjon,1-divisjon,Norway,Lyn,Ranheim,1,4,2,0.5393,0.1898,0.2709,2.721,1.96,1,0,dc-1.0,https://footballanalytics.pro/en/matches/lyn-vs-ranheim-5105260
+5105261,2026-09-20T15:00:00.000Z,1. Divisjon,1-divisjon,Norway,Odds Ballklubb,Egersund,5,1,1,0.3978,0.2736,0.3286,1.495,1.341,1,1,dc-1.0,https://footballanalytics.pro/en/matches/odds-ballklubb-vs-egersund-5105261
+5105262,2026-09-20T15:00:00.000Z,1. Divisjon,1-divisjon,Norway,Raufoss,Strømsgodset,0,2,2,0.0902,0.1331,0.7767,1.117,3.222,2,1,dc-1.0,https://footballanalytics.pro/en/matches/raufoss-vs-stromsgodset-5105262
+5105263,2026-09-20T15:00:00.000Z,1. Divisjon,1-divisjon,Norway,Sandnes Ulf,Moss,1,2,2,0.4683,0.2411,0.2906,1.905,1.476,1,0,dc-1.0,https://footballanalytics.pro/en/matches/sandnes-ulf-vs-moss-5105263
+5105264,2026-09-20T15:00:00.000Z,1. Divisjon,1-divisjon,Norway,Stabæk,Sogndal,2,1,1,0.6937,0.1694,0.1369,2.799,1.234,1,1,dc-1.0,https://footballanalytics.pro/en/matches/stab-k-vs-sogndal-5105264
+5105270,2026-10-02T17:00:00.000Z,1. Divisjon,1-divisjon,Norway,Ranheim,Egersund,5,0,1,0.4837,0.2123,0.304,2.302,1.826,1,1,dc-1.0,https://footballanalytics.pro/en/matches/ranheim-vs-egersund-5105270
+5105272,2026-10-03T12:30:00.000Z,1. Divisjon,1-divisjon,Norway,Strømmen,Sandnes Ulf,3,3,X,0.4453,0.2562,0.2985,1.721,1.381,1,0,dc-1.0,https://footballanalytics.pro/en/matches/strommen-vs-sandnes-ulf-5105272
+5105267,2026-10-03T14:00:00.000Z,1. Divisjon,1-divisjon,Norway,FK Haugesund,Stabæk,2,0,1,0.5495,0.19,0.2605,2.715,1.898,1,1,dc-1.0,https://footballanalytics.pro/en/matches/fk-haugesund-vs-stab-k-5105267
+5105268,2026-10-03T14:00:00.000Z,1. Divisjon,1-divisjon,Norway,Hødd,Odds Ballklubb,2,3,2,0.3312,0.2469,0.4219,1.563,1.78,2,1,dc-1.0,https://footballanalytics.pro/en/matches/hodd-vs-odds-ballklubb-5105268
+5105273,2026-10-03T14:00:00.000Z,1. Divisjon,1-divisjon,Norway,Strømsgodset,Åsane,1,0,1,0.7975,0.1257,0.0768,3.245,1.017,1,1,dc-1.0,https://footballanalytics.pro/en/matches/stromsgodset-vs-asane-5105273
+5105266,2026-10-04T12:30:00.000Z,1. Divisjon,1-divisjon,Norway,Bryne,Lyn,1,0,1,0.459,0.2819,0.2591,1.509,1.08,1,1,dc-1.0,https://footballanalytics.pro/en/matches/bryne-vs-lyn-5105266
+5105269,2026-10-05T17:00:00.000Z,1. Divisjon,1-divisjon,Norway,Moss,Kongsvinger,0,2,2,0.1587,0.1626,0.6787,1.511,3.043,2,1,dc-1.0,https://footballanalytics.pro/en/matches/moss-vs-kongsvinger-5105269
+5105274,2026-10-11T15:00:00.000Z,1. Divisjon,1-divisjon,Norway,Egersund,Hødd,3,1,1,0.4748,0.2434,0.2818,1.885,1.423,1,1,dc-1.0,https://footballanalytics.pro/en/matches/egersund-vs-hodd-5105274
+5105275,2026-10-11T15:00:00.000Z,1. Divisjon,1-divisjon,Norway,Kongsvinger,Ranheim,6,2,1,0.7054,0.1403,0.1543,3.59,1.809,1,1,dc-1.0,https://footballanalytics.pro/en/matches/kongsvinger-vs-ranheim-5105275
+5105276,2026-10-11T15:00:00.000Z,1. Divisjon,1-divisjon,Norway,Lyn,Strømsgodset,1,5,2,0.2399,0.2234,0.5368,1.414,2.158,2,1,dc-1.0,https://footballanalytics.pro/en/matches/lyn-vs-stromsgodset-5105276
+5105277,2026-10-11T15:00:00.000Z,1. Divisjon,1-divisjon,Norway,Odds Ballklubb,Bryne,2,1,1,0.3776,0.3019,0.3205,1.26,1.142,1,1,dc-1.0,https://footballanalytics.pro/en/matches/odds-ballklubb-vs-bryne-5105277
+5105278,2026-10-11T15:00:00.000Z,1. Divisjon,1-divisjon,Norway,Raufoss,Moss,1,2,2,0.3203,0.2405,0.4392,1.587,1.876,2,1,dc-1.0,https://footballanalytics.pro/en/matches/raufoss-vs-moss-5105278
+5105279,2026-10-11T15:00:00.000Z,1. Divisjon,1-divisjon,Norway,Sandnes Ulf,FK Haugesund,1,1,X,0.1451,0.1635,0.6914,1.372,2.955,2,0,dc-1.0,https://footballanalytics.pro/en/matches/sandnes-ulf-vs-fk-haugesund-5105279
+5105280,2026-10-11T15:00:00.000Z,1. Divisjon,1-divisjon,Norway,Stabæk,Strømmen,2,2,X,0.703,0.1684,0.1287,2.776,1.17,1,0,dc-1.0,https://footballanalytics.pro/en/matches/stab-k-vs-strommen-5105280
+5105281,2026-10-11T15:00:00.000Z,1. Divisjon,1-divisjon,Norway,Åsane,Sogndal,2,1,1,0.382,0.2449,0.3731,1.72,1.699,1,1,dc-1.0,https://footballanalytics.pro/en/matches/asane-vs-sogndal-5105281
+5105288,2026-10-14T13:00:00.000Z,1. Divisjon,1-divisjon,Norway,Strømmen,Åsane,6,1,1,0.4935,0.2324,0.274,2.029,1.487,1,1,dc-1.0,https://footballanalytics.pro/en/matches/strommen-vs-asane-5105288
+5105282,2026-10-14T17:00:00.000Z,1. Divisjon,1-divisjon,Norway,Bryne,Raufoss,1,1,X,0.6687,0.2207,0.1106,1.976,0.687,1,0,dc-1.0,https://footballanalytics.pro/en/matches/bryne-vs-raufoss-5105282
+5105283,2026-10-14T17:00:00.000Z,1. Divisjon,1-divisjon,Norway,FK Haugesund,Lyn,3,0,1,0.7545,0.1345,0.1109,3.393,1.368,1,1,dc-1.0,https://footballanalytics.pro/en/matches/fk-haugesund-vs-lyn-5105283
+5105284,2026-10-14T17:00:00.000Z,1. Divisjon,1-divisjon,Norway,Hødd,Ranheim,1,1,X,0.3433,0.1964,0.4603,2.212,2.542,2,0,dc-1.0,https://footballanalytics.pro/en/matches/hodd-vs-ranheim-5105284
+5105285,2026-10-14T17:00:00.000Z,1. Divisjon,1-divisjon,Norway,Moss,Egersund,0,0,X,0.3649,0.2487,0.3865,1.641,1.693,2,0,dc-1.0,https://footballanalytics.pro/en/matches/moss-vs-egersund-5105285
+5105286,2026-10-14T17:00:00.000Z,1. Divisjon,1-divisjon,Norway,Sogndal,Odds Ballklubb,0,1,2,0.3247,0.2374,0.4379,1.631,1.909,2,1,dc-1.0,https://footballanalytics.pro/en/matches/sogndal-vs-odds-ballklubb-5105286
+5105287,2026-10-14T17:00:00.000Z,1. Divisjon,1-divisjon,Norway,Stabæk,Sandnes Ulf,4,1,1,0.6536,0.2002,0.1461,2.337,1.044,1,1,dc-1.0,https://footballanalytics.pro/en/matches/stab-k-vs-sandnes-ulf-5105287
+5105289,2026-10-14T17:00:00.000Z,1. Divisjon,1-divisjon,Norway,Strømsgodset,Kongsvinger,5,1,1,0.4846,0.2139,0.3014,2.277,1.794,1,1,dc-1.0,https://footballanalytics.pro/en/matches/stromsgodset-vs-kongsvinger-5105289
+5105290,2026-10-18T12:30:00.000Z,1. Divisjon,1-divisjon,Norway,Egersund,Sogndal,3,3,X,0.4902,0.2505,0.2593,1.819,1.281,1,0,dc-1.0,https://footballanalytics.pro/en/matches/egersund-vs-sogndal-5105290
+5105296,2026-10-18T12:30:00.000Z,1. Divisjon,1-divisjon,Norway,Strømsgodset,FK Haugesund,5,0,1,0.5111,0.2064,0.2825,2.414,1.799,1,1,dc-1.0,https://footballanalytics.pro/en/matches/stromsgodset-vs-fk-haugesund-5105296
+5105291,2026-10-18T15:00:00.000Z,1. Divisjon,1-divisjon,Norway,Hødd,Raufoss,5,1,1,0.601,0.2149,0.1841,2.224,1.181,1,1,dc-1.0,https://footballanalytics.pro/en/matches/hodd-vs-raufoss-5105291
+5105292,2026-10-18T15:00:00.000Z,1. Divisjon,1-divisjon,Norway,Kongsvinger,Sandnes Ulf,4,0,1,0.7796,0.1308,0.0897,3.272,1.137,1,1,dc-1.0,https://footballanalytics.pro/en/matches/kongsvinger-vs-sandnes-ulf-5105292
+5105293,2026-10-18T15:00:00.000Z,1. Divisjon,1-divisjon,Norway,Lyn,Moss,1,0,1,0.543,0.2222,0.2347,2.172,1.398,1,1,dc-1.0,https://footballanalytics.pro/en/matches/lyn-vs-moss-5105293
+5105294,2026-10-18T15:00:00.000Z,1. Divisjon,1-divisjon,Norway,Odds Ballklubb,Strømmen,1,2,2,0.5664,0.2076,0.2261,2.381,1.49,1,0,dc-1.0,https://footballanalytics.pro/en/matches/odds-ballklubb-vs-strommen-5105294
+5105295,2026-10-18T15:00:00.000Z,1. Divisjon,1-divisjon,Norway,Ranheim,Bryne,4,2,1,0.4297,0.2554,0.3149,1.707,1.44,1,1,dc-1.0,https://footballanalytics.pro/en/matches/ranheim-vs-bryne-5105295
+5105297,2026-10-18T15:00:00.000Z,1. Divisjon,1-divisjon,Norway,Åsane,Stabæk,0,1,2,0.1884,0.2052,0.6064,1.287,2.369,2,1,dc-1.0,https://footballanalytics.pro/en/matches/asane-vs-stab-k-5105297
+5105271,2026-10-21T17:00:00.000Z,1. Divisjon,1-divisjon,Norway,Sogndal,Raufoss,2,1,1,0.6532,0.1911,0.1557,2.502,1.186,1,1,dc-1.0,https://footballanalytics.pro/en/matches/sogndal-vs-raufoss-5105271
+5105302,2026-10-24T12:00:00.000Z,1. Divisjon,1-divisjon,Norway,Raufoss,Ranheim,1,3,2,0.1883,0.1701,0.6416,1.669,2.996,2,1,dc-1.0,https://footballanalytics.pro/en/matches/raufoss-vs-ranheim-5105302
+5105305,2026-10-25T12:00:00.000Z,1. Divisjon,1-divisjon,Norway,Strømmen,Strømsgodset,1,0,1,0.1638,0.1789,0.6573,1.364,2.736,2,0,dc-1.0,https://footballanalytics.pro/en/matches/strommen-vs-stromsgodset-5105305
+5105300,2026-10-25T13:30:00.000Z,1. Divisjon,1-divisjon,Norway,FK Haugesund,Hødd,3,2,1,0.7774,0.1261,0.0965,3.472,1.291,1,1,dc-1.0,https://footballanalytics.pro/en/matches/fk-haugesund-vs-hodd-5105300
+5105303,2026-10-25T13:30:00.000Z,1. Divisjon,1-divisjon,Norway,Sandnes Ulf,Lyn,2,1,1,0.3703,0.2594,0.3703,1.557,1.557,1,1,dc-1.0,https://footballanalytics.pro/en/matches/sandnes-ulf-vs-lyn-5105303
+5105298,2026-10-25T16:00:00.000Z,1. Divisjon,1-divisjon,Norway,Stabæk,Odds Ballklubb,2,0,1,0.5652,0.2247,0.2101,2.125,1.25,1,1,dc-1.0,https://footballanalytics.pro/en/matches/stab-k-vs-odds-ballklubb-5105298
+5105299,2026-10-25T16:00:00.000Z,1. Divisjon,1-divisjon,Norway,Bryne,Egersund,3,3,X,0.4682,0.2899,0.2418,1.453,0.979,1,0,dc-1.0,https://footballanalytics.pro/en/matches/bryne-vs-egersund-5105299
+5105301,2026-10-25T16:00:00.000Z,1. Divisjon,1-divisjon,Norway,Moss,Åsane,1,3,2,0.4856,0.2479,0.2665,1.845,1.328,1,0,dc-1.0,https://footballanalytics.pro/en/matches/moss-vs-asane-5105301
+5105304,2026-10-25T16:00:00.000Z,1. Divisjon,1-divisjon,Norway,Sogndal,Kongsvinger,3,1,1,0.1919,0.1816,0.6266,1.551,2.773,2,0,dc-1.0,https://footballanalytics.pro/en/matches/sogndal-vs-kongsvinger-5105304
+5105311,2026-11-01T13:30:00.000Z,1. Divisjon,1-divisjon,Norway,Ranheim,Sogndal,2,1,1,0.6232,0.1708,0.206,3.036,1.803,1,1,dc-1.0,https://footballanalytics.pro/en/matches/ranheim-vs-sogndal-5105311
+5105306,2026-11-01T16:00:00.000Z,1. Divisjon,1-divisjon,Norway,Egersund,Strømmen,3,1,1,0.4409,0.235,0.3241,1.942,1.653,1,1,dc-1.0,https://footballanalytics.pro/en/matches/egersund-vs-strommen-5105306
+5105307,2026-11-01T16:00:00.000Z,1. Divisjon,1-divisjon,Norway,Hødd,Bryne,0,3,2,0.3832,0.2749,0.3419,1.458,1.367,1,0,dc-1.0,https://footballanalytics.pro/en/matches/hodd-vs-bryne-5105307
+5105309,2026-11-01T16:00:00.000Z,1. Divisjon,1-divisjon,Norway,Lyn,Raufoss,4,0,1,0.6813,0.1862,0.1325,2.494,1.048,1,1,dc-1.0,https://footballanalytics.pro/en/matches/lyn-vs-raufoss-5105309
+5105310,2026-11-01T16:00:00.000Z,1. Divisjon,1-divisjon,Norway,Odds Ballklubb,Sandnes Ulf,3,3,X,0.5948,0.2254,0.1798,2.083,1.08,1,0,dc-1.0,https://footballanalytics.pro/en/matches/odds-ballklubb-vs-sandnes-ulf-5105310
+5105312,2026-11-01T16:00:00.000Z,1. Divisjon,1-divisjon,Norway,Strømsgodset,Moss,3,0,1,0.8579,0.0984,0.0437,3.413,0.763,1,1,dc-1.0,https://footballanalytics.pro/en/matches/stromsgodset-vs-moss-5105312
+5105313,2026-11-01T16:00:00.000Z,1. Divisjon,1-divisjon,Norway,Åsane,FK Haugesund,1,3,2,0.1702,0.1759,0.6539,1.449,2.816,2,1,dc-1.0,https://footballanalytics.pro/en/matches/asane-vs-fk-haugesund-5105313
+5105308,2026-11-02T18:00:00.000Z,1. Divisjon,1-divisjon,Norway,Kongsvinger,Stabæk,1,2,2,0.5207,0.2114,0.2678,2.334,1.669,1,0,dc-1.0,https://footballanalytics.pro/en/matches/kongsvinger-vs-stab-k-5105308
+5105314,2026-11-08T12:00:00.000Z,1. Divisjon,1-divisjon,Norway,Bryne,Kongsvinger,3,1,1,0.3294,0.2512,0.4194,1.52,1.733,2,0,dc-1.0,https://footballanalytics.pro/en/matches/bryne-vs-kongsvinger-5105314
+5105315,2026-11-08T12:00:00.000Z,1. Divisjon,1-divisjon,Norway,FK Haugesund,Odds Ballklubb,2,3,2,0.6816,0.166,0.1524,2.941,1.412,1,0,dc-1.0,https://footballanalytics.pro/en/matches/fk-haugesund-vs-odds-ballklubb-5105315
+5105316,2026-11-08T12:00:00.000Z,1. Divisjon,1-divisjon,Norway,Moss,Ranheim,3,1,1,0.2844,0.2041,0.5115,1.837,2.452,2,0,dc-1.0,https://footballanalytics.pro/en/matches/moss-vs-ranheim-5105316
+5105317,2026-11-08T12:00:00.000Z,1. Divisjon,1-divisjon,Norway,Raufoss,Egersund,0,2,2,0.2164,0.2287,0.555,1.252,2.079,2,1,dc-1.0,https://footballanalytics.pro/en/matches/raufoss-vs-egersund-5105317
+5105318,2026-11-08T12:00:00.000Z,1. Divisjon,1-divisjon,Norway,Sandnes Ulf,Åsane,3,1,1,0.5023,0.2411,0.2567,1.929,1.341,1,1,dc-1.0,https://footballanalytics.pro/en/matches/sandnes-ulf-vs-asane-5105318
+5105319,2026-11-08T12:00:00.000Z,1. Divisjon,1-divisjon,Norway,Sogndal,Hødd,0,0,X,0.4942,0.2298,0.2759,2.062,1.519,1,0,dc-1.0,https://footballanalytics.pro/en/matches/sogndal-vs-hodd-5105319
+5105320,2026-11-08T12:00:00.000Z,1. Divisjon,1-divisjon,Norway,Stabæk,Strømsgodset,2,3,2,0.3255,0.2577,0.4169,1.454,1.666,2,1,dc-1.0,https://footballanalytics.pro/en/matches/stab-k-vs-stromsgodset-5105320
+5105321,2026-11-08T12:00:00.000Z,1. Divisjon,1-divisjon,Norway,Strømmen,Lyn,2,0,1,0.4814,0.2281,0.2905,2.076,1.597,1,1,dc-1.0,https://footballanalytics.pro/en/matches/strommen-vs-lyn-5105321
